@@ -1,0 +1,2 @@
+# Softuni
+Exercises from Softuni 
