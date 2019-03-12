@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\bin\Debug\netcoreapp2.1\Retake Exam Preparation.deps.json
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\bin\Debug\netcoreapp2.1\Retake Exam Preparation.runtimeconfig.json
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\bin\Debug\netcoreapp2.1\Retake Exam Preparation.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\bin\Debug\netcoreapp2.1\Retake Exam Preparation.dll
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\bin\Debug\netcoreapp2.1\Retake Exam Preparation.pdb
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\obj\Debug\netcoreapp2.1\Retake Exam Preparation.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\obj\Debug\netcoreapp2.1\Retake Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\obj\Debug\netcoreapp2.1\Retake Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\obj\Debug\netcoreapp2.1\Retake Exam Preparation.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\obj\Debug\netcoreapp2.1\Retake Exam Preparation.dll
+C:\Users\daxte\source\repos\Retake Exam Preparation\Retake Exam Preparation\obj\Debug\netcoreapp2.1\Retake Exam Preparation.pdb

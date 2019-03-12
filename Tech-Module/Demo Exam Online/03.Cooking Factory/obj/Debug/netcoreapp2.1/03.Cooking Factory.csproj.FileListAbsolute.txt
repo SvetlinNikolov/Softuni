@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\bin\Debug\netcoreapp2.1\03.Cooking Factory.deps.json
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\bin\Debug\netcoreapp2.1\03.Cooking Factory.runtimeconfig.json
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\bin\Debug\netcoreapp2.1\03.Cooking Factory.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\bin\Debug\netcoreapp2.1\03.Cooking Factory.dll
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\bin\Debug\netcoreapp2.1\03.Cooking Factory.pdb
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\obj\Debug\netcoreapp2.1\03.Cooking Factory.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\obj\Debug\netcoreapp2.1\03.Cooking Factory.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\obj\Debug\netcoreapp2.1\03.Cooking Factory.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\obj\Debug\netcoreapp2.1\03.Cooking Factory.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\obj\Debug\netcoreapp2.1\03.Cooking Factory.dll
+C:\Users\daxte\source\repos\Demo Exam Online\03.Cooking Factory\obj\Debug\netcoreapp2.1\03.Cooking Factory.pdb

@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\bin\Debug\netcoreapp2.1\Objects and Classes Excersise.deps.json
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\bin\Debug\netcoreapp2.1\Objects and Classes Excersise.runtimeconfig.json
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\bin\Debug\netcoreapp2.1\Objects and Classes Excersise.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\bin\Debug\netcoreapp2.1\Objects and Classes Excersise.dll
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\bin\Debug\netcoreapp2.1\Objects and Classes Excersise.pdb
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\obj\Debug\netcoreapp2.1\Objects and Classes Excersise.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\obj\Debug\netcoreapp2.1\Objects and Classes Excersise.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\obj\Debug\netcoreapp2.1\Objects and Classes Excersise.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\obj\Debug\netcoreapp2.1\Objects and Classes Excersise.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\obj\Debug\netcoreapp2.1\Objects and Classes Excersise.dll
+C:\Users\daxte\source\repos\Objects and Classes Excersise\Objects and Classes Excersise\obj\Debug\netcoreapp2.1\Objects and Classes Excersise.pdb

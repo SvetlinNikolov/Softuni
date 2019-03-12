@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp2.1\03. Take Skip Rope.deps.json
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp2.1\03. Take Skip Rope.runtimeconfig.json
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp2.1\03. Take Skip Rope.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp2.1\03. Take Skip Rope.dll
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp2.1\03. Take Skip Rope.pdb
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp2.1\03. Take Skip Rope.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp2.1\03. Take Skip Rope.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp2.1\03. Take Skip Rope.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp2.1\03. Take Skip Rope.dll
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp2.1\03. Take Skip Rope.pdb
+C:\Users\daxte\source\repos\Lists More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp2.1\03. Take Skip Rope.csprojAssemblyReference.cache

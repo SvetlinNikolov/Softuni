@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.deps.json
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.runtimeconfig.json
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.dll
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.pdb
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.dll
+C:\Users\daxte\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.pdb

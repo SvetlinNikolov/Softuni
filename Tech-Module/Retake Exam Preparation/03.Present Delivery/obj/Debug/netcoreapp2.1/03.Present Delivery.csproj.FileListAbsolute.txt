@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\bin\Debug\netcoreapp2.1\03.Present Delivery.deps.json
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\bin\Debug\netcoreapp2.1\03.Present Delivery.runtimeconfig.json
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\bin\Debug\netcoreapp2.1\03.Present Delivery.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\bin\Debug\netcoreapp2.1\03.Present Delivery.dll
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\bin\Debug\netcoreapp2.1\03.Present Delivery.pdb
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\obj\Debug\netcoreapp2.1\03.Present Delivery.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\obj\Debug\netcoreapp2.1\03.Present Delivery.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\obj\Debug\netcoreapp2.1\03.Present Delivery.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\obj\Debug\netcoreapp2.1\03.Present Delivery.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\obj\Debug\netcoreapp2.1\03.Present Delivery.dll
+C:\Users\daxte\source\repos\Retake Exam Preparation\03.Present Delivery\obj\Debug\netcoreapp2.1\03.Present Delivery.pdb

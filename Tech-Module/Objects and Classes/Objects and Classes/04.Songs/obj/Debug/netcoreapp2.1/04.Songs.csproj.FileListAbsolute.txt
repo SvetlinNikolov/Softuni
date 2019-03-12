@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\bin\Debug\netcoreapp2.1\04.Songs.deps.json
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\bin\Debug\netcoreapp2.1\04.Songs.runtimeconfig.json
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\bin\Debug\netcoreapp2.1\04.Songs.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\bin\Debug\netcoreapp2.1\04.Songs.dll
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\bin\Debug\netcoreapp2.1\04.Songs.pdb
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\obj\Debug\netcoreapp2.1\04.Songs.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\obj\Debug\netcoreapp2.1\04.Songs.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\obj\Debug\netcoreapp2.1\04.Songs.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\obj\Debug\netcoreapp2.1\04.Songs.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\obj\Debug\netcoreapp2.1\04.Songs.dll
+C:\Users\daxte\source\repos\Objects and Classes\Objects and Classes\04.Songs\obj\Debug\netcoreapp2.1\04.Songs.pdb
