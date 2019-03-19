@@ -1,2 +1,2 @@
 # Softuni
-Exercises from Softuni 
+Basically uploading all Softuni tasks
