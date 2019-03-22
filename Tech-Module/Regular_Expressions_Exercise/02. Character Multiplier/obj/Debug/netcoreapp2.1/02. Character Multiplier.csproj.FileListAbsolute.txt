@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.deps.json
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.runtimeconfig.json
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.dll
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.pdb
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.dll
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.pdb
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.csprojAssemblyReference.cache

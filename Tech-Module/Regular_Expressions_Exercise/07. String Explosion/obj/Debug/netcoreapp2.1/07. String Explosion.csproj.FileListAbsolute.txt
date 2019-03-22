@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.deps.json
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.runtimeconfig.json
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.dll
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.pdb
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.dll
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.pdb
+C:\Users\daxte\source\repos\Regular_Expressions_Exercise\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.csprojAssemblyReference.cache
