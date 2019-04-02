@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\bin\Debug\netcoreapp2.1\06.Winning Ticket.deps.json
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\bin\Debug\netcoreapp2.1\06.Winning Ticket.runtimeconfig.json
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\bin\Debug\netcoreapp2.1\06.Winning Ticket.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\bin\Debug\netcoreapp2.1\06.Winning Ticket.dll
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\bin\Debug\netcoreapp2.1\06.Winning Ticket.pdb
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\obj\Debug\netcoreapp2.1\06.Winning Ticket.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\obj\Debug\netcoreapp2.1\06.Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\obj\Debug\netcoreapp2.1\06.Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\obj\Debug\netcoreapp2.1\06.Winning Ticket.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\obj\Debug\netcoreapp2.1\06.Winning Ticket.dll
+C:\Users\daxte\source\repos\Regex_More_Exercise\06.Winning Ticket\obj\Debug\netcoreapp2.1\06.Winning Ticket.pdb
