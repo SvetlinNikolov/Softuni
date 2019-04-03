@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+
 namespace _06.Vehicle_Catalogue
 {
     class Program
@@ -21,6 +22,7 @@ namespace _06.Vehicle_Catalogue
                 person.Age = int.Parse(data[2]);
 
                 dataOfPeople.Add(person);
+             
 
                 data = Console.ReadLine().Split().ToList();
             }
@@ -37,6 +39,7 @@ namespace _06.Vehicle_Catalogue
         public string Name;
         public string Id;
         public int Age;
+
     }
 
 }

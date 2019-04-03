@@ -10,11 +10,12 @@ namespace _05.Teamwork_projects
             int teamsCount = int.Parse(Console.ReadLine());
             List<Participants> teamsCreatorsMembers = new List<Participants>();
 
-
             for (int i = 0; i <= teamsCount; i++)
             {
                 Participants people = new Participants();
                 List<string> inputData = Console.ReadLine().Split("-").ToList();
+
+
             }
         }
     }
