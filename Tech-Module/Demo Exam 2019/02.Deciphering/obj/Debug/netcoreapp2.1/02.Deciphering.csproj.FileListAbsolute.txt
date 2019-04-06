@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\bin\Debug\netcoreapp2.1\02.Deciphering.deps.json
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\bin\Debug\netcoreapp2.1\02.Deciphering.runtimeconfig.json
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\bin\Debug\netcoreapp2.1\02.Deciphering.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\bin\Debug\netcoreapp2.1\02.Deciphering.dll
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\bin\Debug\netcoreapp2.1\02.Deciphering.pdb
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\obj\Debug\netcoreapp2.1\02.Deciphering.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\obj\Debug\netcoreapp2.1\02.Deciphering.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\obj\Debug\netcoreapp2.1\02.Deciphering.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\obj\Debug\netcoreapp2.1\02.Deciphering.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\obj\Debug\netcoreapp2.1\02.Deciphering.dll
+C:\Users\daxte\source\repos\Demo Exam 2019\02.Deciphering\obj\Debug\netcoreapp2.1\02.Deciphering.pdb
