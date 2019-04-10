@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\obj\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\obj\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\obj\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\obj\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\bin\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.deps.json
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\bin\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.runtimeconfig.json
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\bin\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\bin\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.dll
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\bin\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.pdb
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\obj\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.dll
+C:\Users\daxte\source\repos\Retake_Final_Exam 20_Dec_2018\01.Vapor_Winter_Sale\obj\Debug\netcoreapp2.1\01.Vapor_Winter_Sale.pdb
