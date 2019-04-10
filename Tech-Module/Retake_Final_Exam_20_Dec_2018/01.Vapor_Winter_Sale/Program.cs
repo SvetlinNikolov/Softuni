@@ -13,6 +13,8 @@ namespace _01.Vapor_Winter_Sale
             var gamesWithDlc = new Dictionary<string, List<string>>();
             var gamesAndPrice = new Dictionary<string, double>();
 
+            List<string> gamesWithoutDlc = new List<string>();
+
             string pattern = @"^[A-Za-z0-9 ]+$";
             Regex gameRegex = new Regex(pattern);
 
@@ -71,10 +73,29 @@ namespace _01.Vapor_Winter_Sale
                     gamesAndPrice[game.Key] -= gamesAndPrice[game.Key] * 0.50;
                 }
             }
-            foreach (var kvp in gamesWithDlc)
+            //here we add to gamesWithoutDlc, the games that dont have dlc so we can print them
+           
+            foreach (var kvp in gamesAndPrice.OrderBy(x => x.Value))
             {
-                
+                if (gamesWithDlc.ContainsKey(kvp.Key))
+                {
+                    Console.Write(kvp.Key + " - ");
+                    foreach (var value in gamesWithDlc[kvp.Key])
+                    {
+                        Console.Write(value+" - ");
+                    }
+                    Console.WriteLine($"{kvp.Value:f2}");
+                }
             }
+            foreach (var gameNoDlc in gamesAndPrice.OrderByDescending(x=>x.Value))
+            {
+                if (!gamesWithDlc.ContainsKey(gameNoDlc.Key))
+                {
+                    Console.WriteLine($"{gameNoDlc.Key} - {gameNoDlc.Value:f2}");
+                }
+            }
+
+
         }
     }
 }
