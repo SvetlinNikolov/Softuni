@@ -1,2 +1,2 @@
 # Softuni
-Basically uploading all Softuni tasks
+Here I upload tasks,exams and projects that I made in Softuni
