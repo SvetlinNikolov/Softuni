@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\bin\Debug\netcoreapp2.1\06.Hot_Potato.deps.json
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\bin\Debug\netcoreapp2.1\06.Hot_Potato.runtimeconfig.json
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\bin\Debug\netcoreapp2.1\06.Hot_Potato.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\bin\Debug\netcoreapp2.1\06.Hot_Potato.dll
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\bin\Debug\netcoreapp2.1\06.Hot_Potato.pdb
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\obj\Debug\netcoreapp2.1\06.Hot_Potato.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\obj\Debug\netcoreapp2.1\06.Hot_Potato.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\obj\Debug\netcoreapp2.1\06.Hot_Potato.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\obj\Debug\netcoreapp2.1\06.Hot_Potato.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\obj\Debug\netcoreapp2.1\06.Hot_Potato.dll
+C:\Users\daxte\source\repos\Tech-Module\Softuni\C# Advanced\Stacks_And_Queues\06.Hot_Potato\obj\Debug\netcoreapp2.1\06.Hot_Potato.pdb
