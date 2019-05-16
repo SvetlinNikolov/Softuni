@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj": {}
+    "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj": {
+    "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+        "projectUniqueName": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
         "projectName": "03. Maximum and Minimum Element",
-        "projectPath": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+        "projectPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
         "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\03. Maximum and Minimum Element\\obj\\",
+        "outputPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\03. Maximum and Minimum Element\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\daxte\\AppData\\Roaming\\NuGet\\NuGet.Config",

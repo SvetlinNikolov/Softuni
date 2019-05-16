@@ -689,19 +689,19 @@
   },
   "packageFolders": {
     "C:\\Users\\daxte\\.nuget\\packages\\": {},
-    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+      "projectUniqueName": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
       "projectName": "02. Basic Queue Operations",
-      "projectPath": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+      "projectPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
       "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\02. Basic Queue Operations\\obj\\",
+      "outputPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\02. Basic Queue Operations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\daxte\\AppData\\Roaming\\NuGet\\NuGet.Config",

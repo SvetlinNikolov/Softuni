@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\05.Fashion Boutique\\05.Fashion Boutique.csproj": {}
+    "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\05.Fashion Boutique\\05.Fashion Boutique.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\05.Fashion Boutique\\05.Fashion Boutique.csproj": {
+    "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\05.Fashion Boutique\\05.Fashion Boutique.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\05.Fashion Boutique\\05.Fashion Boutique.csproj",
+        "projectUniqueName": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\05.Fashion Boutique\\05.Fashion Boutique.csproj",
         "projectName": "05.Fashion Boutique",
-        "projectPath": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\05.Fashion Boutique\\05.Fashion Boutique.csproj",
+        "projectPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\05.Fashion Boutique\\05.Fashion Boutique.csproj",
         "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\05.Fashion Boutique\\obj\\",
+        "outputPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\05.Fashion Boutique\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\daxte\\AppData\\Roaming\\NuGet\\NuGet.Config",

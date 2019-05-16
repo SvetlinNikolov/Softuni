@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\01.Basic_Stack_Operations\\01.Basic Stack Operations.csproj": {}
+    "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\01.Basic_Stack_Operations\\01.Basic Stack Operations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\01.Basic_Stack_Operations\\01.Basic Stack Operations.csproj": {
+    "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\01.Basic_Stack_Operations\\01.Basic Stack Operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\01.Basic_Stack_Operations\\01.Basic Stack Operations.csproj",
+        "projectUniqueName": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\01.Basic_Stack_Operations\\01.Basic Stack Operations.csproj",
         "projectName": "01.Basic Stack Operations",
-        "projectPath": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\01.Basic_Stack_Operations\\01.Basic Stack Operations.csproj",
+        "projectPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\01.Basic_Stack_Operations\\01.Basic Stack Operations.csproj",
         "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daxte\\source\\repos\\Stacks_And_Queues_Ex\\01.Basic_Stack_Operations\\obj\\",
+        "outputPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Stacks_And_Queues_Ex\\01.Basic_Stack_Operations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\daxte\\AppData\\Roaming\\NuGet\\NuGet.Config",

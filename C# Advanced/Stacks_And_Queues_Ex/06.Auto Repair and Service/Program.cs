@@ -26,7 +26,7 @@ namespace _06.Auto_Repair_and_Service
                         servedCars.Push(servedCar);
                         Console.WriteLine($"Vehicle {servedCar} got served.");
                     }
-                    
+
                 }
                 else if (carInfo[0] == "CarInfo")
                 {
