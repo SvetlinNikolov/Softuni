@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daxte\\source\\repos\\Multidimensional_Arrays_Ex\\01. Diagonal Difference\\01. Diagonal Difference.csproj": {}
+    "D:\\Softuni Repo\\Softuni\\C# Advanced\\Multidimensional_Arrays_Ex\\01. Diagonal Difference\\01. Diagonal Difference.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daxte\\source\\repos\\Multidimensional_Arrays_Ex\\01. Diagonal Difference\\01. Diagonal Difference.csproj": {
+    "D:\\Softuni Repo\\Softuni\\C# Advanced\\Multidimensional_Arrays_Ex\\01. Diagonal Difference\\01. Diagonal Difference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Multidimensional_Arrays_Ex\\01. Diagonal Difference\\01. Diagonal Difference.csproj",
+        "projectUniqueName": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Multidimensional_Arrays_Ex\\01. Diagonal Difference\\01. Diagonal Difference.csproj",
         "projectName": "01. Diagonal Difference",
-        "projectPath": "C:\\Users\\daxte\\source\\repos\\Multidimensional_Arrays_Ex\\01. Diagonal Difference\\01. Diagonal Difference.csproj",
+        "projectPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Multidimensional_Arrays_Ex\\01. Diagonal Difference\\01. Diagonal Difference.csproj",
         "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daxte\\source\\repos\\Multidimensional_Arrays_Ex\\01. Diagonal Difference\\obj\\",
+        "outputPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Multidimensional_Arrays_Ex\\01. Diagonal Difference\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\daxte\\AppData\\Roaming\\NuGet\\NuGet.Config",
