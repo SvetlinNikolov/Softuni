@@ -8,7 +8,7 @@ namespace _03._Maximal_Sum
         static void Main(string[] args)
         {
             int[] dimensions = Console.ReadLine()
-                 .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                 .Split(new char[] { ' '})
                  .Select(int.Parse)
                  .ToArray();
 
@@ -47,7 +47,8 @@ namespace _03._Maximal_Sum
                     {
                         largestSum = tempSum;
 
-                        largestMatrix = new int[,] {
+                        largestMatrix = new int[,] 
+                        {
                         {  matrix[row, col], matrix[row, col + 1],matrix[row, col + 2]},
                         {matrix[row + 1, col],matrix[row + 1, col + 1] ,matrix[row + 1, col + 2]},
                         {matrix[row + 2, col], matrix[row + 2, col + 1], matrix[row + 2, col + 2]}
