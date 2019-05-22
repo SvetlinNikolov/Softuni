@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.deps.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.runtimeconfig.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.dll
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.pdb
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.dll
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.pdb
