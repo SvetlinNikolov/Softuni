@@ -8,15 +8,16 @@
     {
         static void Main(string[] args)
         {
-            //UNFINISHED
+
             int countClothers = int.Parse(Console.ReadLine());
 
-            Dictionary<string, List<string>> clothes = new Dictionary<string, List<string>>();
+            Dictionary<string, Dictionary<string, List<string>>> clothes
+                = new Dictionary<string, Dictionary<string, List<string>>>();
 
             for (int i = 0; i < countClothers; i++)
             {
                 string[] currentItem = Console.ReadLine()
-                    .Split(" -> ", ',', StringSplitOptions.RemoveEmptyEntries);
+                    .Split(" -> ", StringSplitOptions.RemoveEmptyEntries);
 
                 string color = currentItem[0];
 
@@ -25,10 +26,15 @@
 
                 if (!clothes.ContainsKey(color))
                 {
-                    clothes[color] = new List<string>();
+                    clothes[color] = new Dictionary<string, List<string>>();
                     foreach (var item in items)
                     {
-                        clothes[color].Add(item);
+                        if (!clothes[color].ContainsKey(item))
+                        {
+                            clothes[color].Add(item, new List<string>());
+                        }
+                     
+                        clothes[color][item].Add(item);
                     }
 
                 }
@@ -36,45 +42,48 @@
                 {
                     foreach (var item in items)
                     {
-                        clothes[color].Add(item);
+                        if (clothes[color].ContainsKey(item))
+                        {
+                            clothes[color][item].Add(item);
+                        }
+                        else
+                        {
+                            clothes[color].Add(item, new List<string>());
+                            clothes[color][item].Add(item);
+                        }
+                       
                     }
                 }
 
-            }
-            string[] itemsToSearchFor = Console.ReadLine()
-                .Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-            string colorToFind = itemsToSearchFor[0];
-            string itemToFind = itemsToSearchFor[1];
+            }
+            string[] itemsToLookFor = Console.ReadLine()
+                 .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+            string itemColor = itemsToLookFor[0];
+            string itemToFind = itemsToLookFor[1];
 
             foreach (var kvp in clothes)
             {
-                string currentColor = kvp.Key;
+                string currentKey = kvp.Key;
 
-                Console.WriteLine($"{currentColor} clothes:");
+                Console.WriteLine($"{currentKey} clothes:");
 
-                foreach (var item in kvp.Value.ToList())
+                foreach (var element in kvp.Value.ToList())
                 {
-                    if (kvp.Value.ToList().Count < 1)
+                    if (itemColor == currentKey && itemToFind == element.Key)
                     {
-                        break;
+                        Console.WriteLine($"* {element.Key} - {element.Value.Count} (found!)");
                     }
-                    int counter = 0;
-
-                    while (clothes[currentColor].Contains(item))
+                    else
                     {
-                        counter++;
-                        clothes[currentColor].Remove(item);
+                        Console.WriteLine($"* {element.Key} - {element.Value.Count} ");
                     }
-                    if (currentColor == colorToFind && item == itemToFind)
-                    {
-                        Console.WriteLine($"* {item} - {counter} (found!)");
-                        continue;
-                    }
-                    Console.WriteLine($"* {item} - {counter}");
+                   
+                   
                 }
             }
-            
+            Console.WriteLine();
         }
     }
 }
