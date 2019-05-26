@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.deps.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.runtimeconfig.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.dll
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.pdb
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.dll
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.pdb
