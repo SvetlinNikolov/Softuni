@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\bin\Debug\netcoreapp2.1\12. Cups And Bottles.deps.json
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\bin\Debug\netcoreapp2.1\12. Cups And Bottles.runtimeconfig.json
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\bin\Debug\netcoreapp2.1\12. Cups And Bottles.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\bin\Debug\netcoreapp2.1\12. Cups And Bottles.dll
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\bin\Debug\netcoreapp2.1\12. Cups And Bottles.pdb
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\obj\Debug\netcoreapp2.1\12. Cups And Bottles.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\obj\Debug\netcoreapp2.1\12. Cups And Bottles.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\obj\Debug\netcoreapp2.1\12. Cups And Bottles.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\obj\Debug\netcoreapp2.1\12. Cups And Bottles.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\obj\Debug\netcoreapp2.1\12. Cups And Bottles.dll
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\12. Cups And Bottles\obj\Debug\netcoreapp2.1\12. Cups And Bottles.pdb
