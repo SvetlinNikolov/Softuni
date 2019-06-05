@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\bin\Debug\netcoreapp2.1\04. Car Engine and Tires.deps.json
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\bin\Debug\netcoreapp2.1\04. Car Engine and Tires.runtimeconfig.json
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\bin\Debug\netcoreapp2.1\04. Car Engine and Tires.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\bin\Debug\netcoreapp2.1\04. Car Engine and Tires.dll
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\bin\Debug\netcoreapp2.1\04. Car Engine and Tires.pdb
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\obj\Debug\netcoreapp2.1\04. Car Engine and Tires.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\obj\Debug\netcoreapp2.1\04. Car Engine and Tires.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\obj\Debug\netcoreapp2.1\04. Car Engine and Tires.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\obj\Debug\netcoreapp2.1\04. Car Engine and Tires.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\obj\Debug\netcoreapp2.1\04. Car Engine and Tires.dll
+C:\Users\daxte\source\repos\Defining_Classes_Lab\04. Car Engine and Tires\obj\Debug\netcoreapp2.1\04. Car Engine and Tires.pdb

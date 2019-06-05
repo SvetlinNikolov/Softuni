@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\bin\Debug\netcoreapp2.1\02. Car Extension.deps.json
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\bin\Debug\netcoreapp2.1\02. Car Extension.runtimeconfig.json
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\bin\Debug\netcoreapp2.1\02. Car Extension.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\bin\Debug\netcoreapp2.1\02. Car Extension.dll
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\bin\Debug\netcoreapp2.1\02. Car Extension.pdb
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.dll
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.pdb
+C:\Users\daxte\source\repos\Defining_Classes_Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.csprojAssemblyReference.cache
