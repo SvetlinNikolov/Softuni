@@ -1,10 +1,10 @@
-C:\Users\daxte\source\repos\Defining_Classes_Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.deps.json
-C:\Users\daxte\source\repos\Defining_Classes_Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.runtimeconfig.json
-C:\Users\daxte\source\repos\Defining_Classes_Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.runtimeconfig.dev.json
-C:\Users\daxte\source\repos\Defining_Classes_Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.dll
-C:\Users\daxte\source\repos\Defining_Classes_Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.pdb
-C:\Users\daxte\source\repos\Defining_Classes_Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.csproj.CoreCompileInputs.cache
-C:\Users\daxte\source\repos\Defining_Classes_Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.AssemblyInfoInputs.cache
-C:\Users\daxte\source\repos\Defining_Classes_Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.AssemblyInfo.cs
-C:\Users\daxte\source\repos\Defining_Classes_Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.dll
-C:\Users\daxte\source\repos\Defining_Classes_Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.pdb
+D:\Softuni Repo\Softuni\C# Advanced\Defining_Classes_Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.deps.json
+D:\Softuni Repo\Softuni\C# Advanced\Defining_Classes_Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.runtimeconfig.json
+D:\Softuni Repo\Softuni\C# Advanced\Defining_Classes_Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.runtimeconfig.dev.json
+D:\Softuni Repo\Softuni\C# Advanced\Defining_Classes_Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.dll
+D:\Softuni Repo\Softuni\C# Advanced\Defining_Classes_Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.pdb
+D:\Softuni Repo\Softuni\C# Advanced\Defining_Classes_Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.csproj.CoreCompileInputs.cache
+D:\Softuni Repo\Softuni\C# Advanced\Defining_Classes_Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.AssemblyInfoInputs.cache
+D:\Softuni Repo\Softuni\C# Advanced\Defining_Classes_Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.AssemblyInfo.cs
+D:\Softuni Repo\Softuni\C# Advanced\Defining_Classes_Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.dll
+D:\Softuni Repo\Softuni\C# Advanced\Defining_Classes_Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.pdb

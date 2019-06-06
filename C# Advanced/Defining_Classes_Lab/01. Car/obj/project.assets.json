@@ -689,19 +689,19 @@
   },
   "packageFolders": {
     "C:\\Users\\daxte\\.nuget\\packages\\": {},
-    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Defining_Classes_Lab\\01. Car\\01. Car.csproj",
+      "projectUniqueName": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Defining_Classes_Lab\\01. Car\\01. Car.csproj",
       "projectName": "01. Car",
-      "projectPath": "C:\\Users\\daxte\\source\\repos\\Defining_Classes_Lab\\01. Car\\01. Car.csproj",
+      "projectPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Defining_Classes_Lab\\01. Car\\01. Car.csproj",
       "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daxte\\source\\repos\\Defining_Classes_Lab\\01. Car\\obj\\",
+      "outputPath": "D:\\Softuni Repo\\Softuni\\C# Advanced\\Defining_Classes_Lab\\01. Car\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\daxte\\AppData\\Roaming\\NuGet\\NuGet.Config",
