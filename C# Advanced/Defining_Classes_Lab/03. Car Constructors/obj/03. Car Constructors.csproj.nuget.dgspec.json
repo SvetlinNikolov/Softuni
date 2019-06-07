@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daxte\\source\\repos\\Defining_Classes_Lab\\03. Car Constructors\\03. Car Constructors.csproj": {}
+    "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# Advanced\\Defining_Classes_Lab\\03. Car Constructors\\03. Car Constructors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daxte\\source\\repos\\Defining_Classes_Lab\\03. Car Constructors\\03. Car Constructors.csproj": {
+    "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# Advanced\\Defining_Classes_Lab\\03. Car Constructors\\03. Car Constructors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Defining_Classes_Lab\\03. Car Constructors\\03. Car Constructors.csproj",
+        "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# Advanced\\Defining_Classes_Lab\\03. Car Constructors\\03. Car Constructors.csproj",
         "projectName": "03. Car Constructors",
-        "projectPath": "C:\\Users\\daxte\\source\\repos\\Defining_Classes_Lab\\03. Car Constructors\\03. Car Constructors.csproj",
+        "projectPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# Advanced\\Defining_Classes_Lab\\03. Car Constructors\\03. Car Constructors.csproj",
         "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daxte\\source\\repos\\Defining_Classes_Lab\\03. Car Constructors\\obj\\",
+        "outputPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# Advanced\\Defining_Classes_Lab\\03. Car Constructors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
