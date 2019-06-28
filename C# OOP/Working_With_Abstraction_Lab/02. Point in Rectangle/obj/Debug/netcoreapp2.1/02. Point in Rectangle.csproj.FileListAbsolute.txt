@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\bin\Debug\netcoreapp2.1\02. Point in Rectangle.deps.json
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\bin\Debug\netcoreapp2.1\02. Point in Rectangle.runtimeconfig.json
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\bin\Debug\netcoreapp2.1\02. Point in Rectangle.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\bin\Debug\netcoreapp2.1\02. Point in Rectangle.dll
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\bin\Debug\netcoreapp2.1\02. Point in Rectangle.pdb
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.AssemblyInfo.cs
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.dll
+C:\Users\daxte\source\repos\OOP_Module\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.pdb

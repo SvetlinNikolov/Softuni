@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\OOP_Module\01.Rhombus of Stars\bin\Debug\netcoreapp2.1\01.Rhombus of Stars.deps.json
+C:\Users\daxte\source\repos\OOP_Module\01.Rhombus of Stars\bin\Debug\netcoreapp2.1\01.Rhombus of Stars.runtimeconfig.json
+C:\Users\daxte\source\repos\OOP_Module\01.Rhombus of Stars\bin\Debug\netcoreapp2.1\01.Rhombus of Stars.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\OOP_Module\01.Rhombus of Stars\bin\Debug\netcoreapp2.1\01.Rhombus of Stars.dll
+C:\Users\daxte\source\repos\OOP_Module\01.Rhombus of Stars\bin\Debug\netcoreapp2.1\01.Rhombus of Stars.pdb
+C:\Users\daxte\source\repos\OOP_Module\01.Rhombus of Stars\obj\Debug\netcoreapp2.1\01.Rhombus of Stars.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\OOP_Module\01.Rhombus of Stars\obj\Debug\netcoreapp2.1\01.Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\OOP_Module\01.Rhombus of Stars\obj\Debug\netcoreapp2.1\01.Rhombus of Stars.AssemblyInfo.cs
+C:\Users\daxte\source\repos\OOP_Module\01.Rhombus of Stars\obj\Debug\netcoreapp2.1\01.Rhombus of Stars.dll
+C:\Users\daxte\source\repos\OOP_Module\01.Rhombus of Stars\obj\Debug\netcoreapp2.1\01.Rhombus of Stars.pdb
