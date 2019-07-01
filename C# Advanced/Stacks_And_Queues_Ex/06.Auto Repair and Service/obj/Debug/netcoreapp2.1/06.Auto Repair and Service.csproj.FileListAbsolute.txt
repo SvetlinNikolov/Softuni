@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\06.Auto Repair and Service\bin\Debug\netcoreapp2.1\06.Auto Repair and Service.deps.json
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\06.Auto Repair and Service\bin\Debug\netcoreapp2.1\06.Auto Repair and Service.runtimeconfig.json
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\06.Auto Repair and Service\bin\Debug\netcoreapp2.1\06.Auto Repair and Service.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\06.Auto Repair and Service\bin\Debug\netcoreapp2.1\06.Auto Repair and Service.dll
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\06.Auto Repair and Service\bin\Debug\netcoreapp2.1\06.Auto Repair and Service.pdb
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\06.Auto Repair and Service\obj\Debug\netcoreapp2.1\06.Auto Repair and Service.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\06.Auto Repair and Service\obj\Debug\netcoreapp2.1\06.Auto Repair and Service.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\06.Auto Repair and Service\obj\Debug\netcoreapp2.1\06.Auto Repair and Service.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\06.Auto Repair and Service\obj\Debug\netcoreapp2.1\06.Auto Repair and Service.dll
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\06.Auto Repair and Service\obj\Debug\netcoreapp2.1\06.Auto Repair and Service.pdb

@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\bin\Debug\netcoreapp2.1\Day_1_Data_Types.deps.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\bin\Debug\netcoreapp2.1\Day_1_Data_Types.runtimeconfig.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\bin\Debug\netcoreapp2.1\Day_1_Data_Types.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\bin\Debug\netcoreapp2.1\Day_1_Data_Types.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\bin\Debug\netcoreapp2.1\Day_1_Data_Types.pdb
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\obj\Debug\netcoreapp2.1\Day_1_Data_Types.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\obj\Debug\netcoreapp2.1\Day_1_Data_Types.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\obj\Debug\netcoreapp2.1\Day_1_Data_Types.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\obj\Debug\netcoreapp2.1\Day_1_Data_Types.AssemblyInfo.cs
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\obj\Debug\netcoreapp2.1\Day_1_Data_Types.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_1_Data_Types\obj\Debug\netcoreapp2.1\Day_1_Data_Types.pdb

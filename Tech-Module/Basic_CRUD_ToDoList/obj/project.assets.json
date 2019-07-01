@@ -11802,11 +11802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daxte\\Desktop\\Skeleton\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\Tech-Module\\Basic_CRUD_ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\daxte\\Desktop\\Skeleton\\ToDoList\\ToDoList.csproj",
+      "projectPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\Tech-Module\\Basic_CRUD_ToDoList\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daxte\\Desktop\\Skeleton\\ToDoList\\obj\\",
+      "outputPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\Tech-Module\\Basic_CRUD_ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

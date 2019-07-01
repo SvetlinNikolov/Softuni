@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\Multidimensional_Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp2.1\04. Symbol in Matrix.deps.json
+C:\Users\daxte\source\repos\Multidimensional_Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp2.1\04. Symbol in Matrix.runtimeconfig.json
+C:\Users\daxte\source\repos\Multidimensional_Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp2.1\04. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Multidimensional_Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp2.1\04. Symbol in Matrix.dll
+C:\Users\daxte\source\repos\Multidimensional_Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp2.1\04. Symbol in Matrix.pdb
+C:\Users\daxte\source\repos\Multidimensional_Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Multidimensional_Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Multidimensional_Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Multidimensional_Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.dll
+C:\Users\daxte\source\repos\Multidimensional_Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.pdb

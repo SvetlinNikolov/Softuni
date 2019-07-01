@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\Functional_Programming_Ex\06. Reverse and Exclude\bin\Debug\netcoreapp2.1\06. Reverse and Exclude.deps.json
+C:\Users\daxte\source\repos\Functional_Programming_Ex\06. Reverse and Exclude\bin\Debug\netcoreapp2.1\06. Reverse and Exclude.runtimeconfig.json
+C:\Users\daxte\source\repos\Functional_Programming_Ex\06. Reverse and Exclude\bin\Debug\netcoreapp2.1\06. Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Functional_Programming_Ex\06. Reverse and Exclude\bin\Debug\netcoreapp2.1\06. Reverse and Exclude.dll
+C:\Users\daxte\source\repos\Functional_Programming_Ex\06. Reverse and Exclude\bin\Debug\netcoreapp2.1\06. Reverse and Exclude.pdb
+C:\Users\daxte\source\repos\Functional_Programming_Ex\06. Reverse and Exclude\obj\Debug\netcoreapp2.1\06. Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Functional_Programming_Ex\06. Reverse and Exclude\obj\Debug\netcoreapp2.1\06. Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Functional_Programming_Ex\06. Reverse and Exclude\obj\Debug\netcoreapp2.1\06. Reverse and Exclude.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Functional_Programming_Ex\06. Reverse and Exclude\obj\Debug\netcoreapp2.1\06. Reverse and Exclude.dll
+C:\Users\daxte\source\repos\Functional_Programming_Ex\06. Reverse and Exclude\obj\Debug\netcoreapp2.1\06. Reverse and Exclude.pdb

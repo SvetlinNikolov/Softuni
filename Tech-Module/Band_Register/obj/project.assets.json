@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daxte\\Desktop\\Skeleton\\Band Register\\Skeleton-C#\\BandRegister\\BandRegister.csproj",
+      "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\Tech-Module\\Band_Register\\BandRegister.csproj",
       "projectName": "BandRegister",
-      "projectPath": "C:\\Users\\daxte\\Desktop\\Skeleton\\Band Register\\Skeleton-C#\\BandRegister\\BandRegister.csproj",
+      "projectPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\Tech-Module\\Band_Register\\BandRegister.csproj",
       "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daxte\\Desktop\\Skeleton\\Band Register\\Skeleton-C#\\BandRegister\\obj\\",
+      "outputPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\Tech-Module\\Band_Register\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

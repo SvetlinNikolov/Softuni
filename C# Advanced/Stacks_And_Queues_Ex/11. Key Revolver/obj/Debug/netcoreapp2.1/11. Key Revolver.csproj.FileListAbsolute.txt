@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\bin\Debug\netcoreapp2.1\11. Key Revolver.deps.json
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\bin\Debug\netcoreapp2.1\11. Key Revolver.runtimeconfig.json
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\bin\Debug\netcoreapp2.1\11. Key Revolver.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\bin\Debug\netcoreapp2.1\11. Key Revolver.dll
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\bin\Debug\netcoreapp2.1\11. Key Revolver.pdb
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.dll
+C:\Users\daxte\source\repos\Stacks_And_Queues_Ex\11. Key Revolver\obj\Debug\netcoreapp2.1\11. Key Revolver.pdb

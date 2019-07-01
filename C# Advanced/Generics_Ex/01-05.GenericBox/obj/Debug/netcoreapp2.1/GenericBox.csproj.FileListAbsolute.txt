@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.deps.json
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.runtimeconfig.json
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.dll
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.pdb
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.dll
+C:\Users\daxte\source\repos\Generics_Ex\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.pdb

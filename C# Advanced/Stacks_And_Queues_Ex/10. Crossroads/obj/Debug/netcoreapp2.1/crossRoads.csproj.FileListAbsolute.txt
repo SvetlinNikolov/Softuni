@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Default\crossRoads\bin\Debug\netcoreapp2.1\crossRoads.deps.json
+C:\Users\daxte\source\repos\Default\crossRoads\bin\Debug\netcoreapp2.1\crossRoads.runtimeconfig.json
+C:\Users\daxte\source\repos\Default\crossRoads\bin\Debug\netcoreapp2.1\crossRoads.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Default\crossRoads\bin\Debug\netcoreapp2.1\crossRoads.dll
+C:\Users\daxte\source\repos\Default\crossRoads\bin\Debug\netcoreapp2.1\crossRoads.pdb
+C:\Users\daxte\source\repos\Default\crossRoads\obj\Debug\netcoreapp2.1\crossRoads.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Default\crossRoads\obj\Debug\netcoreapp2.1\crossRoads.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Default\crossRoads\obj\Debug\netcoreapp2.1\crossRoads.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Default\crossRoads\obj\Debug\netcoreapp2.1\crossRoads.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Default\crossRoads\obj\Debug\netcoreapp2.1\crossRoads.dll
+C:\Users\daxte\source\repos\Default\crossRoads\obj\Debug\netcoreapp2.1\crossRoads.pdb

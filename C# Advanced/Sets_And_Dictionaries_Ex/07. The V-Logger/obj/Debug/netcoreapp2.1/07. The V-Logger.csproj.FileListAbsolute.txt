@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\bin\Debug\netcoreapp2.1\07. The V-Logger.deps.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\bin\Debug\netcoreapp2.1\07. The V-Logger.runtimeconfig.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\bin\Debug\netcoreapp2.1\07. The V-Logger.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\bin\Debug\netcoreapp2.1\07. The V-Logger.dll
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\bin\Debug\netcoreapp2.1\07. The V-Logger.pdb
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.dll
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Ex\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.pdb

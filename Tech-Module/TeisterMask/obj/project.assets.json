@@ -13051,11 +13051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daxte\\Desktop\\Skeleton\\TeisterMask\\TeisterMask\\TeisterMask.csproj",
+      "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\Tech-Module\\TeisterMask\\TeisterMask.csproj",
       "projectName": "TeisterMask",
-      "projectPath": "C:\\Users\\daxte\\Desktop\\Skeleton\\TeisterMask\\TeisterMask\\TeisterMask.csproj",
+      "projectPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\Tech-Module\\TeisterMask\\TeisterMask.csproj",
       "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daxte\\Desktop\\Skeleton\\TeisterMask\\TeisterMask\\obj\\",
+      "outputPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\Tech-Module\\TeisterMask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\bin\Debug\netcoreapp2.1\01. Trojan Invasion.deps.json
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\bin\Debug\netcoreapp2.1\01. Trojan Invasion.runtimeconfig.json
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\bin\Debug\netcoreapp2.1\01. Trojan Invasion.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\bin\Debug\netcoreapp2.1\01. Trojan Invasion.dll
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\bin\Debug\netcoreapp2.1\01. Trojan Invasion.pdb
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.dll
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\01. Trojan Invasion\obj\Debug\netcoreapp2.1\01. Trojan Invasion.pdb

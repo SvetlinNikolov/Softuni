@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_10_Binary_Numbers\bin\Debug\netcoreapp2.1\Day_10_Binary_Numbers.deps.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_10_Binary_Numbers\bin\Debug\netcoreapp2.1\Day_10_Binary_Numbers.runtimeconfig.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_10_Binary_Numbers\bin\Debug\netcoreapp2.1\Day_10_Binary_Numbers.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_10_Binary_Numbers\bin\Debug\netcoreapp2.1\Day_10_Binary_Numbers.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_10_Binary_Numbers\bin\Debug\netcoreapp2.1\Day_10_Binary_Numbers.pdb
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_10_Binary_Numbers\obj\Debug\netcoreapp2.1\Day_10_Binary_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_10_Binary_Numbers\obj\Debug\netcoreapp2.1\Day_10_Binary_Numbers.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_10_Binary_Numbers\obj\Debug\netcoreapp2.1\Day_10_Binary_Numbers.AssemblyInfo.cs
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_10_Binary_Numbers\obj\Debug\netcoreapp2.1\Day_10_Binary_Numbers.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_10_Binary_Numbers\obj\Debug\netcoreapp2.1\Day_10_Binary_Numbers.pdb

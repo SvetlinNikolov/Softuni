@@ -31,3 +31,14 @@ C:\Users\daxte\Desktop\Skeleton\TeisterMask\TeisterMask\bin\Debug\netcoreapp2.0\
 C:\Users\daxte\Desktop\Skeleton\TeisterMask\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
 C:\Users\daxte\Desktop\Skeleton\TeisterMask\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
 C:\Users\daxte\Desktop\Skeleton\TeisterMask\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.deps.json
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.json
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\daxte\source\repos\Tech-Module\Softuni\Tech-Module\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.pdb

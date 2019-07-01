@@ -1,0 +1,11 @@
+C:\Users\daxte\Desktop\SU\Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+C:\Users\daxte\Desktop\SU\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+C:\Users\daxte\Desktop\SU\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+C:\Users\daxte\Desktop\SU\Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\daxte\Desktop\SU\Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\daxte\Desktop\SU\Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+C:\Users\daxte\Desktop\SU\Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\daxte\Desktop\SU\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\daxte\Desktop\SU\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+C:\Users\daxte\Desktop\SU\Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\daxte\Desktop\SU\Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb

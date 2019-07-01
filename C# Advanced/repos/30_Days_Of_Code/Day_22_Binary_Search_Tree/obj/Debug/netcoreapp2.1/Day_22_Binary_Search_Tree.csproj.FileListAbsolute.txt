@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\bin\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.deps.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\bin\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.runtimeconfig.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\bin\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\bin\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\bin\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.pdb
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\obj\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\obj\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\obj\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\obj\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.AssemblyInfo.cs
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\obj\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_22_Binary_Search_Tree\obj\Debug\netcoreapp2.1\Day_22_Binary_Search_Tree.pdb

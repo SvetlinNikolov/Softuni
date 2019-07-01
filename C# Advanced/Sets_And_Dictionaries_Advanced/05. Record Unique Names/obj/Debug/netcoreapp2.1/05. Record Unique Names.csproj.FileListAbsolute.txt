@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Advanced\05. Record Unique Names\bin\Debug\netcoreapp2.1\05. Record Unique Names.deps.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Advanced\05. Record Unique Names\bin\Debug\netcoreapp2.1\05. Record Unique Names.runtimeconfig.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Advanced\05. Record Unique Names\bin\Debug\netcoreapp2.1\05. Record Unique Names.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Advanced\05. Record Unique Names\bin\Debug\netcoreapp2.1\05. Record Unique Names.dll
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Advanced\05. Record Unique Names\bin\Debug\netcoreapp2.1\05. Record Unique Names.pdb
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Advanced\05. Record Unique Names\obj\Debug\netcoreapp2.1\05. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Advanced\05. Record Unique Names\obj\Debug\netcoreapp2.1\05. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Advanced\05. Record Unique Names\obj\Debug\netcoreapp2.1\05. Record Unique Names.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Advanced\05. Record Unique Names\obj\Debug\netcoreapp2.1\05. Record Unique Names.dll
+C:\Users\daxte\source\repos\Sets_And_Dictionaries_Advanced\05. Record Unique Names\obj\Debug\netcoreapp2.1\05. Record Unique Names.pdb

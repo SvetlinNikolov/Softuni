@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\bin\Debug\netcoreapp2.1\07. Raw Data.deps.json
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\bin\Debug\netcoreapp2.1\07. Raw Data.runtimeconfig.json
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\bin\Debug\netcoreapp2.1\07. Raw Data.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\bin\Debug\netcoreapp2.1\07. Raw Data.dll
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\bin\Debug\netcoreapp2.1\07. Raw Data.pdb
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\obj\Debug\netcoreapp2.1\07. Raw Data.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\obj\Debug\netcoreapp2.1\07. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\obj\Debug\netcoreapp2.1\07. Raw Data.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\obj\Debug\netcoreapp2.1\07. Raw Data.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\obj\Debug\netcoreapp2.1\07. Raw Data.dll
+C:\Users\daxte\source\repos\Defining_Classes_Ex\07. Raw Data\obj\Debug\netcoreapp2.1\07. Raw Data.pdb

@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.deps.json
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.runtimeconfig.json
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.dll
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.pdb
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.dll
+C:\Users\daxte\source\repos\Functional_Programming_Ex\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.pdb

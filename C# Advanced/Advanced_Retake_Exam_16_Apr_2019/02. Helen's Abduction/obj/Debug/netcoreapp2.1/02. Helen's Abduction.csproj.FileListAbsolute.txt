@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\bin\Debug\netcoreapp2.1\02. Helen's Abduction.deps.json
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\bin\Debug\netcoreapp2.1\02. Helen's Abduction.runtimeconfig.json
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\bin\Debug\netcoreapp2.1\02. Helen's Abduction.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\bin\Debug\netcoreapp2.1\02. Helen's Abduction.dll
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\bin\Debug\netcoreapp2.1\02. Helen's Abduction.pdb
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\obj\Debug\netcoreapp2.1\02. Helen's Abduction.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\obj\Debug\netcoreapp2.1\02. Helen's Abduction.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\obj\Debug\netcoreapp2.1\02. Helen's Abduction.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\obj\Debug\netcoreapp2.1\02. Helen's Abduction.dll
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\obj\Debug\netcoreapp2.1\02. Helen's Abduction.pdb
+C:\Users\daxte\source\repos\Advanced_Retake_Exam_16_Apr_2019\02. Helen's Abduction\obj\Debug\netcoreapp2.1\02. Helen's Abduction.csprojAssemblyReference.cache

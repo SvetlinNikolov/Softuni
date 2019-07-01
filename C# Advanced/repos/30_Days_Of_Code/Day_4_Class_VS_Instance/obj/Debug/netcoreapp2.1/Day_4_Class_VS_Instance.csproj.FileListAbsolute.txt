@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\bin\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.deps.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\bin\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.runtimeconfig.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\bin\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\bin\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\bin\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.pdb
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\obj\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\obj\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\obj\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.AssemblyInfo.cs
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\obj\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\obj\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.pdb
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_4_Class_VS_Instance\obj\Debug\netcoreapp2.1\Day_4_Class_VS_Instance.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\bin\Debug\netcoreapp2.1\Generics_Lab.deps.json
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\bin\Debug\netcoreapp2.1\Generics_Lab.runtimeconfig.json
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\bin\Debug\netcoreapp2.1\Generics_Lab.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\bin\Debug\netcoreapp2.1\Generics_Lab.dll
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\bin\Debug\netcoreapp2.1\Generics_Lab.pdb
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\obj\Debug\netcoreapp2.1\Generics_Lab.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\obj\Debug\netcoreapp2.1\Generics_Lab.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\obj\Debug\netcoreapp2.1\Generics_Lab.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\obj\Debug\netcoreapp2.1\Generics_Lab.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\obj\Debug\netcoreapp2.1\Generics_Lab.dll
+C:\Users\daxte\source\repos\Generics_Lab\Generics_Lab\obj\Debug\netcoreapp2.1\Generics_Lab.pdb

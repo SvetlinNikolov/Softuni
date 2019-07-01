@@ -7,7 +7,7 @@ namespace BandRegister.Models
         public int Id { get; set; }
 
         [Required]
-        public string Name { get; set; }
+        public string Time { get; set; }
 
         [Required]
         public string Members { get; set; }
@@ -17,6 +17,8 @@ namespace BandRegister.Models
 
         [Required]
         public string Genre { get; set; }
+
+
 
     }
 }
