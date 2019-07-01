@@ -1,0 +1,9 @@
+*.7z
+*.rar
+*.zip
+*.dll
+*.obj
+*.bin
+bin/
+obj/
+*_wpftmp.csproj
