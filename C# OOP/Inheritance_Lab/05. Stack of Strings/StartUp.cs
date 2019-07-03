@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace _05._Stack_of_Strings
+namespace CustomStack
 {
-    class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            
         }
     }
 }
