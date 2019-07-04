@@ -1,0 +1,11 @@
+C:\Users\daxte\Desktop\SU\Zoo\bin\Debug\netcoreapp2.1\Zoo.deps.json
+C:\Users\daxte\Desktop\SU\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.json
+C:\Users\daxte\Desktop\SU\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.dev.json
+C:\Users\daxte\Desktop\SU\Zoo\bin\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\daxte\Desktop\SU\Zoo\bin\Debug\netcoreapp2.1\Zoo.pdb
+C:\Users\daxte\Desktop\SU\Zoo\obj\Debug\netcoreapp2.1\Zoo.csprojAssemblyReference.cache
+C:\Users\daxte\Desktop\SU\Zoo\obj\Debug\netcoreapp2.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\daxte\Desktop\SU\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\daxte\Desktop\SU\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfo.cs
+C:\Users\daxte\Desktop\SU\Zoo\obj\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\daxte\Desktop\SU\Zoo\obj\Debug\netcoreapp2.1\Zoo.pdb

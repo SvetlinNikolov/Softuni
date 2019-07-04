@@ -1,0 +1,11 @@
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csprojAssemblyReference.cache
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Users\daxte\Desktop\SU\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
