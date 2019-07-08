@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\bin\Debug\netcoreapp2.1\02. Animal Farm.deps.json
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\bin\Debug\netcoreapp2.1\02. Animal Farm.runtimeconfig.json
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\bin\Debug\netcoreapp2.1\02. Animal Farm.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\bin\Debug\netcoreapp2.1\02. Animal Farm.dll
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\bin\Debug\netcoreapp2.1\02. Animal Farm.pdb
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\obj\Debug\netcoreapp2.1\02. Animal Farm.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\obj\Debug\netcoreapp2.1\02. Animal Farm.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\obj\Debug\netcoreapp2.1\02. Animal Farm.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\obj\Debug\netcoreapp2.1\02. Animal Farm.AssemblyInfo.cs
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\obj\Debug\netcoreapp2.1\02. Animal Farm.dll
+C:\Users\daxte\source\repos\Encapsulation_Ex\02. Animal Farm\obj\Debug\netcoreapp2.1\02. Animal Farm.pdb
