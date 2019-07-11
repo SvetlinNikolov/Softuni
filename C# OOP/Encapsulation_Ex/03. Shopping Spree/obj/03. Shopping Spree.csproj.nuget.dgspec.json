@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daxte\\source\\repos\\Encapsulation_Ex\\03. Shopping Spree\\03. Shopping Spree.csproj": {}
+    "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# OOP\\Encapsulation_Ex\\03. Shopping Spree\\03. Shopping Spree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daxte\\source\\repos\\Encapsulation_Ex\\03. Shopping Spree\\03. Shopping Spree.csproj": {
+    "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# OOP\\Encapsulation_Ex\\03. Shopping Spree\\03. Shopping Spree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Encapsulation_Ex\\03. Shopping Spree\\03. Shopping Spree.csproj",
+        "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# OOP\\Encapsulation_Ex\\03. Shopping Spree\\03. Shopping Spree.csproj",
         "projectName": "03. Shopping Spree",
-        "projectPath": "C:\\Users\\daxte\\source\\repos\\Encapsulation_Ex\\03. Shopping Spree\\03. Shopping Spree.csproj",
+        "projectPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# OOP\\Encapsulation_Ex\\03. Shopping Spree\\03. Shopping Spree.csproj",
         "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daxte\\source\\repos\\Encapsulation_Ex\\03. Shopping Spree\\obj\\",
+        "outputPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# OOP\\Encapsulation_Ex\\03. Shopping Spree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\daxte\\AppData\\Roaming\\NuGet\\NuGet.Config",
