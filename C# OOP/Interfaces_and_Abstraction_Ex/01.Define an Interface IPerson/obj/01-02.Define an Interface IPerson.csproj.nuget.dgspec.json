@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daxte\\source\\repos\\Interfaces_and_Abstraction_Ex\\01.Define an Interface IPerson\\01-02.Define an Interface IPerson.csproj": {}
+    "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# OOP\\Interfaces_and_Abstraction_Ex\\01.Define an Interface IPerson\\01-02.Define an Interface IPerson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daxte\\source\\repos\\Interfaces_and_Abstraction_Ex\\01.Define an Interface IPerson\\01-02.Define an Interface IPerson.csproj": {
+    "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# OOP\\Interfaces_and_Abstraction_Ex\\01.Define an Interface IPerson\\01-02.Define an Interface IPerson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Interfaces_and_Abstraction_Ex\\01.Define an Interface IPerson\\01-02.Define an Interface IPerson.csproj",
+        "projectUniqueName": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# OOP\\Interfaces_and_Abstraction_Ex\\01.Define an Interface IPerson\\01-02.Define an Interface IPerson.csproj",
         "projectName": "01-02.Define an Interface IPerson",
-        "projectPath": "C:\\Users\\daxte\\source\\repos\\Interfaces_and_Abstraction_Ex\\01.Define an Interface IPerson\\01-02.Define an Interface IPerson.csproj",
+        "projectPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# OOP\\Interfaces_and_Abstraction_Ex\\01.Define an Interface IPerson\\01-02.Define an Interface IPerson.csproj",
         "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daxte\\source\\repos\\Interfaces_and_Abstraction_Ex\\01.Define an Interface IPerson\\obj\\",
+        "outputPath": "C:\\Users\\daxte\\source\\repos\\Tech-Module\\Softuni\\C# OOP\\Interfaces_and_Abstraction_Ex\\01.Define an Interface IPerson\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\daxte\\AppData\\Roaming\\NuGet\\NuGet.Config",
