@@ -1,66 +1,62 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Linq;
 
-namespace DatabaseProject
+namespace Database
 {
     public class Database
     {
-        private const int NUMBERS_ARRAY_ALLOWED_CAPACITY = 16;
-        private int[] numbersArray;
+        private int[] data;
 
-        private Database()
-        {
-            this.numbersArray = new int[NUMBERS_ARRAY_ALLOWED_CAPACITY];
-        }
+        private int count;
 
-        public Database(params int[] initialIntsInArray)
-            : this()
+        public Database(params int[] data)
         {
-            this.NumbersArray = initialIntsInArray;
+            this.data = new int[16];
 
-        }
-        public int[] NumbersArray
-        {
-            get
+            for (int i = 0; i < data.Length; i++)
             {
-                return this.numbersArray;
+                this.Add(data[i]);
             }
-            private set
-            {
-                if (numbersArray.Length > 16 || value.Length > 16)
-                {
-                    throw new InvalidOperationException
-                        ($"The lenght of the array cannot be more than {NUMBERS_ARRAY_ALLOWED_CAPACITY}");
-                }
 
-                this.numbersArray = value;
-            }
+            this.count = data.Length;
         }
 
-        public void Add(int numberToAddToArray)
+        public int Count
         {
-
-            List<int> currentNumbersArray = NumbersArray.ToList();
-
-            currentNumbersArray.Add(numberToAddToArray);
-
-            NumbersArray = currentNumbersArray.ToArray();
-
+            get { return count; }
         }
+
+        public void Add(int element)
+        {
+            if (this.count == 16)
+            {
+                throw new InvalidOperationException("Array's capacity must be exactly 16 integers!");
+            }
+
+            this.data[this.count] = element;
+            this.count++;
+        }
+
         public void Remove()
         {
-            List<int> currentNumbersArray = NumbersArray.ToList();
+            if (this.count == 0)
+            {
+                throw new InvalidOperationException("The collection is empty!");
+            }
 
-            currentNumbersArray.Remove(currentNumbersArray.Last());
-
-            NumbersArray = currentNumbersArray.ToArray();
+            this.count--;
+            this.data[this.count] = 0;
         }
+
         public int[] Fetch()
         {
-            return this.NumbersArray;
+            int[] coppyArray = new int[this.count];
+
+            for (int i = 0; i < this.count; i++)
+            {
+                coppyArray[i] = this.data[i];
+            }
+
+            return coppyArray;
         }
-        
     }
 }
