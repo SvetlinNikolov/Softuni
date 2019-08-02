@@ -145,7 +145,7 @@ namespace Tests
         {
             Assert.Throws<ArgumentException>(() =>
             {
-                car.Refuel(-1);
+                car.Refuel(0);
             });
 
         }
