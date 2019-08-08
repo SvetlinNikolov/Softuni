@@ -5,61 +5,54 @@ using System.Text;
 
 namespace MortalEngines.Entities.Machines
 {
-    public class Fighter : BaseMachine,IFighter
+    public class Fighter : BaseMachine, IMachine,IFighter
     {
-        private const double INITIAL_HEALTH_POINTS = 200;
-
-        public bool AggressiveMode { get; set; }
-        //12ч
-
+        private const double INITIAL_HP = 200;
         public Fighter(string name, double attackPoints, double defensePoints)
-            :base(name, attackPoints, defensePoints, INITIAL_HEALTH_POINTS)
+            : base(name, attackPoints, defensePoints, INITIAL_HP)
         {
-         
-            this.AggressiveMode = false;
             ToggleAggressiveMode();
+
         }
+
+        public bool AggressiveMode { get; private set; }
         public void ToggleAggressiveMode()
         {
-            if (AggressiveMode == true)
+            if (this.AggressiveMode == true)
             {
-                AggressiveMode = false;
-            }
-             if (AggressiveMode == false)
-            {
-                AggressiveMode = true;
-            }
+                this.AggressiveMode = false;
 
+                this.AttackPoints -= 50;
+                this.DefensePoints += 25;
 
-            if (AggressiveMode == true)
+            }
+            else if (this.AggressiveMode == false)
             {
                 this.AttackPoints += 50;
                 this.DefensePoints -= 25;
-            }
-            else if (AggressiveMode == false)
-            {
-                this.AttackPoints -= 50;
-                this.DefensePoints += 25;
+
+                this.AggressiveMode = true;
             }
         }
 
         public override string ToString()
         {
-            string aggresiveModeCurrentValue = string.Empty;
+            string aggresiveModeStatus = string.Empty;
 
-            if (AggressiveMode == true)
+            if (this.AggressiveMode == true)
             {
-                aggresiveModeCurrentValue = "ON";
+                aggresiveModeStatus = " *Aggressive: ON";
             }
-            else if (AggressiveMode == false)
+            else if (this.AggressiveMode == false)
             {
-                aggresiveModeCurrentValue = "OFF";
+                aggresiveModeStatus = " *Aggressive: OFF";
             }
 
-
+            //Maybe has to be on same line 
             return base.ToString()
-                + Environment.NewLine
-                + $" *Aggresive: {aggresiveModeCurrentValue}";
+                +Environment.NewLine
+                + aggresiveModeStatus
+                .TrimEnd();
         }
     }
 }

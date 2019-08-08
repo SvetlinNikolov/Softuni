@@ -4,7 +4,7 @@
 
     public interface IMachine
     {
-        string Name { get; }
+        string Name { get; }    
 
         IPilot Pilot { get; set; }
 

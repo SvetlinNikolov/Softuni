@@ -5,64 +5,54 @@ using System.Text;
 
 namespace MortalEngines.Entities.Machines
 {
-    public class Tank : BaseMachine,ITank
+    public class Tank : BaseMachine, ITank
     {
-        private const double INITIAL_HEALTH_POINTS = 100;
-
+        private const double INITIAL_HP = 100;
         public Tank(string name, double attackPoints, double defensePoints)
-            : base(name, attackPoints, defensePoints, INITIAL_HEALTH_POINTS)
+            : base(name, attackPoints, defensePoints, INITIAL_HP)
         {
-           
-            this.DefenseMode = false;
             ToggleDefenseMode();
         }
 
-        public bool DefenseMode { get; set; }
-
+        public bool DefenseMode { get; private set; }
 
         public void ToggleDefenseMode()
         {
-            if (DefenseMode == true)
+
+            if (this.DefenseMode == true)
             {
-                DefenseMode = false;
+                this.DefenseMode = false;
+
+                this.AttackPoints += 40;
+                this.DefensePoints -= 30;
+
             }
-            if (DefenseMode == false)
+            else if (this.DefenseMode == false)
             {
-                DefenseMode = true;
+                this.AttackPoints -= 40;
+                this.DefensePoints += 30;
+
+                this.DefenseMode = true;
             }
         }
-
         public override string ToString()
         {
+            string defenseModeStatus = string.Empty;
 
-            string defenceModeCurrentValue = string.Empty;
-
-
-            if (DefenseMode == true)
+            if (this.DefenseMode == true)
             {
-                AttackPoints -= 40;
-                DefensePoints += 30;
+                defenseModeStatus = " *Defense: ON";
             }
-            if (DefenseMode == false)
+            else if (this.DefenseMode == false)
             {
-                AttackPoints += 40;
-                DefensePoints -= 30;
+                defenseModeStatus = " *Defense: OFF";
             }
 
-            if (DefenseMode == true)
-            {
-                defenceModeCurrentValue = "ON";
-            }
-            else if (DefenseMode == false)
-            {
-                defenceModeCurrentValue = "OFF";
-            }
-
+            //Maybe has to be on same line 
             return base.ToString()
-                + Environment.NewLine
-                + $" *Defence: {defenceModeCurrentValue}";
+                +Environment.NewLine
+                + defenseModeStatus
+                .TrimEnd();
         }
-
-        
     }
 }

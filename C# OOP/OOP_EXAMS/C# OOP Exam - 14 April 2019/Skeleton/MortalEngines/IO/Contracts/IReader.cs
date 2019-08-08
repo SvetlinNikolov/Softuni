@@ -6,7 +6,6 @@
 
     public interface IReader
     {
-        //delete windows input please
         IList<ICommand> ReadCommands();
     }
 }

@@ -3,15 +3,13 @@
     using Contracts;
     using MortalEngines.Entities.Contracts;
     using MortalEngines.Entities.Machines;
-    using MortalEngines.Entities.Pilots;
     using System.Collections.Generic;
     using System.Linq;
 
     public class MachinesManager : IMachinesManager
     {
-        private readonly List<IPilot> pilots;
-        private readonly List<IMachine> machines;
-
+        private IList<IPilot> pilots;
+        private IList<IMachine> machines;
         public MachinesManager()
         {
             pilots = new List<IPilot>();
@@ -19,87 +17,84 @@
         }
         public string HirePilot(string name)
         {
+            IPilot pilot = new Pilot(name);
 
-            if (pilots.Any(x => x.Name == name))
+            if (this.pilots.FirstOrDefault(x=>x.Name==name)!=null)
             {
                 return $"Pilot {name} is hired already";
             }
+            else
+            {
+                this.pilots.Add(pilot);
 
-            Pilot pilot = new Pilot(name);
+                return $"Pilot {name} hired";
+            }
 
-            this.pilots.Add(pilot);
-
-            return $"Pilot {name} hired";
         }
 
         public string ManufactureTank(string name, double attackPoints, double defensePoints)
         {
+            ITank tank = new Tank(name, attackPoints, defensePoints);
 
-            if (machines.Any(x => x.GetType().Name == "Tank" && x.Name == name && x.AttackPoints == attackPoints && x.DefensePoints == defensePoints))
+            if (this.machines.Any(x => x.Name == name))
             {
-                return $"Machine {name} is manufactured already";
+                return $"Machine { name} is manufactured already";
             }
-
-            Tank tank = new Tank(name, attackPoints, defensePoints);
-
-            machines.Add(tank);
-
-            return $"Tank {name} manufactured - attack: {tank.AttackPoints}; defense: {tank.DefensePoints}";
+            else
+            {
+                this.machines.Add(tank);
+                return $"Tank {tank.Name} manufactured - attack: {tank.AttackPoints:f2}; defense: {tank.DefensePoints:f2}";
+            }
         }
 
         public string ManufactureFighter(string name, double attackPoints, double defensePoints)
         {
-            if (machines.Any(x => x.GetType().Name == "Fighter" && x.Name == name && x.AttackPoints == attackPoints && x.DefensePoints == defensePoints))
+            IMachine fighter = new Fighter(name, attackPoints, defensePoints);
+
+            if (this.machines.Any(x => x.Name == name))
             {
                 return $"Machine {name} is manufactured already";
             }
 
-            IFighter fighter = new Fighter(name, attackPoints, defensePoints);
+            this.machines.Add(fighter);
 
-            machines.Add(fighter);
-
-           
-
-            return $"Fighter {name} manufactured - attack: {fighter.AttackPoints}; defense: {fighter.DefensePoints}; aggressive: ON";
+            return $"Fighter {name} manufactured - attack: {fighter.AttackPoints:f2}; defense: {fighter.DefensePoints:f2}; aggressive: ON";
         }
 
         public string EngageMachine(string selectedPilotName, string selectedMachineName)
         {
-            var pilot = pilots.FirstOrDefault(x => x.Name == selectedPilotName);
+            IPilot pilot = this.pilots.FirstOrDefault(x => x.Name == selectedPilotName);
+            IMachine machine = this.machines.FirstOrDefault(x => x.Name == selectedMachineName);
 
             if (pilot == null)
             {
                 return $"Pilot {selectedPilotName} could not be found";
             }
-
-            IMachine machine = machines.FirstOrDefault(x => x.Name == selectedMachineName);
-
             if (machine == null)
             {
                 return $"Machine {selectedMachineName} could not be found";
             }
-
-            if (machine.Pilot == null)
+            if (machine.Pilot != null)
             {
-                pilot.AddMachine(machine);
-                return $"Pilot {selectedPilotName} engaged machine {selectedMachineName}";
+                return $"Machine {selectedMachineName} is already occupied";
             }
 
-            return $"Machine {selectedMachineName} is already occupied";
+            pilot.AddMachine(machine);
+            machine.Pilot = pilot;
+
+            return $"Pilot {pilot.Name} engaged machine {machine.Name}";
         }
 
         public string AttackMachines(string attackingMachineName, string defendingMachineName)
         {
-            var attackingMachine = machines.FirstOrDefault(x => x.Name == attackingMachineName);
+            IMachine attackingMachine = this.machines.FirstOrDefault(x => x.Name == attackingMachineName);
+            IMachine defendingMachine = this.machines.FirstOrDefault(x => x.Name == defendingMachineName);
 
             if (attackingMachine == null)
             {
                 return $"Machine {attackingMachineName} could not be found";
             }
-
-            var defendingMachine = machines.FirstOrDefault(x => x.Name == defendingMachineName);
-
-            if (defendingMachine == null)
+            else if (defendingMachine == null)
             {
                 return $"Machine {defendingMachineName} could not be found";
             }
@@ -114,50 +109,51 @@
             }
 
             attackingMachine.Attack(defendingMachine);
-
-            return $"Machine {defendingMachineName} was attacked by machine {attackingMachineName} - current health: {defendingMachine.HealthPoints}";
+            return $"Machine {defendingMachine.Name} was attacked by machine {attackingMachine.Name} - current health: {defendingMachine.HealthPoints:f2}";
         }
 
         public string PilotReport(string pilotReporting)
         {
-            var pilotToReport = pilots.FirstOrDefault(x => x.Name == pilotReporting);
-            return pilotToReport.Report();
+            var pilotToLookFor = this.pilots.FirstOrDefault(x => x.Name == pilotReporting);
 
+            return pilotToLookFor.Report();
         }
 
         public string MachineReport(string machineName)
         {
-            var machineToReport = machines.FirstOrDefault(x => x.Name == machineName);
+            var machineToLookFor = this.machines.FirstOrDefault(x => x.Name == machineName);
 
-            return machineToReport.ToString();
+            return machineToLookFor.ToString();
         }
 
         public string ToggleFighterAggressiveMode(string fighterName)
         {
-            if (!machines.Any(x => x.GetType().Name == "Fighter" && x.Name == fighterName))
+            if (!this.machines.Any(x => x.Name == fighterName))
             {
                 return $"Machine {fighterName} could not be found";
             }
 
-            Fighter fighterToTrigger = (Fighter)machines.FirstOrDefault(x => x.GetType().Name == "Fighter" && x.Name == fighterName);
+            Fighter fighterToToggle = (Fighter)this.machines.FirstOrDefault(x => x.Name == fighterName);
 
-            fighterToTrigger.AggressiveMode = true;
+            fighterToToggle.ToggleAggressiveMode();
 
             return $"Fighter {fighterName} toggled aggressive mode";
         }
 
         public string ToggleTankDefenseMode(string tankName)
         {
-            if (!machines.Any(x => x.GetType().Name == "Tank" && x.Name == tankName))
+            var tank = machines.FirstOrDefault(t => t.Name == tankName);
+
+            if (tank==null)
             {
                 return $"Machine {tankName} could not be found";
             }
-
-            Tank tankToTrigger = (Tank)machines.FirstOrDefault(x => x.GetType().Name == "Tank" && x.Name == tankName);
-
-            tankToTrigger.DefenseMode = true;
-
-            return $"Tank {tankName} toggled defense mode";
+            else
+            {
+                Tank tankToTrigger = (Tank)machines.FirstOrDefault(x => x.Name == tankName);
+                tankToTrigger.ToggleDefenseMode();
+                return $"Tank {tankName} toggled defense mode";
+            }
         }
     }
 }
