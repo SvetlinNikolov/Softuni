@@ -9,29 +9,28 @@ namespace MortalEngines.Entities.Machines
     {
         private string name;
         private IPilot pilot;
+        private double healthPoints;
 
         public BaseMachine(string name, double attackPoints, double defensePoints, double healthPoints)
         {
-            this.Name = name;
-            this.AttackPoints = attackPoints;
-            this.DefensePoints = defensePoints;
-            this.HealthPoints = healthPoints;
-
-            this.Targets = new List<string>();
+            Name = name;
+            AttackPoints = attackPoints;
+            DefensePoints = defensePoints;
+            HealthPoints = healthPoints;
         }
         public string Name
         {
             get
             {
-                return this.name;
+                return name;
             }
             private set
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentNullException("Machine name cannot be null or empty.");
+                    throw new ArgumentException("Machine name cannot be null or empty.");
                 }
-                this.name = value;
+                name = value;
             }
         }
 
@@ -39,24 +38,37 @@ namespace MortalEngines.Entities.Machines
         {
             get
             {
-                return this.pilot;
+                return pilot;
             }
+
             set
             {
                 if (value == null)
                 {
                     throw new NullReferenceException("Pilot cannot be null.");
                 }
-                this.pilot = value;
+                pilot = value;
             }
         }
-        public double HealthPoints { get; set; }
+        public double HealthPoints
+        {
+            get
+            {
+                return healthPoints;
+            }
+
+            set
+            {
+                healthPoints = value;
+            }
+        }
 
         public double AttackPoints { get; protected set; }
 
         public double DefensePoints { get; protected set; }
 
-        public IList<string> Targets { get; }
+        public IList<string> Targets { get; protected set; }
+
 
         public void Attack(IMachine target)
         {
@@ -65,17 +77,13 @@ namespace MortalEngines.Entities.Machines
                 throw new NullReferenceException("Target cannot be null");
             }
 
-            double targetHealth = Math.Abs(this.AttackPoints - target.DefensePoints);
+            target.HealthPoints = AttackPoints - target.DefensePoints;
 
-            if (targetHealth < 0)
+            if (target.HealthPoints < 0)
             {
                 target.HealthPoints = 0;
             }
-            else
-            {
-                target.HealthPoints = targetHealth;
-            }
-            this.Targets.Add(target.Name);
+
         }
 
         public override string ToString()
@@ -83,24 +91,29 @@ namespace MortalEngines.Entities.Machines
 
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"- {this.Name}");
+            sb.AppendLine($"- {Name}");
 
-            sb.AppendLine($" *Type: {this.GetType().Name}");
-            sb.AppendLine($" *Health: {this.HealthPoints:f2}");
-            sb.AppendLine($" *Attack: {this.AttackPoints:f2}");
-            sb.AppendLine($" *Defense: {this.DefensePoints:f2}");
+            //Tricky logic here
 
+            sb.AppendLine($" *Type: {GetType().Name}");
+            sb.AppendLine($" *Health: {HealthPoints}");
+            sb.AppendLine($" *Attack: {AttackPoints}");
+            sb.AppendLine($" *Defence: {DefensePoints}");
+            sb.AppendLine(" *Targets: ");
 
-            if (this.Targets.Count == 0)
+            if (Targets.Count == 0)
             {
-                sb.AppendLine($" *Targets: None");
+                sb.Append("None");
             }
             else
             {
-                sb.AppendLine(" *Targets: " + string.Join(", ", this.Targets));
+                sb.Append(string.Join(",", Targets));
             }
 
             return sb.ToString().TrimEnd();
+
+
+
         }
     }
 }
