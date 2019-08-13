@@ -67,8 +67,7 @@ namespace MortalEngines.Entities.Machines
 
         public double DefensePoints { get; protected set; }
 
-        public IList<string> Targets { get; protected set; }
-
+        public IList<string> Targets => Targets;
 
         public void Attack(IMachine target)
         {

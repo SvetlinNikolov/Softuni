@@ -35,12 +35,12 @@
         public string ManufactureTank(string name, double attackPoints, double defensePoints)
         {
 
-            if (machines.Any(x => x.GetType().Name == "Tank" && x.Name == name && x.AttackPoints == attackPoints && x.DefensePoints == defensePoints))
+            if (machines.Any(x => x.Name == name && x.AttackPoints == attackPoints && x.DefensePoints == defensePoints))
             {
                 return $"Machine {name} is manufactured already";
             }
 
-            Tank tank = new Tank(name, attackPoints, defensePoints);
+            ITank tank = new Tank(name, attackPoints, defensePoints);
 
             machines.Add(tank);
 
@@ -49,7 +49,7 @@
 
         public string ManufactureFighter(string name, double attackPoints, double defensePoints)
         {
-            if (machines.Any(x => x.GetType().Name == "Fighter" && x.Name == name && x.AttackPoints == attackPoints && x.DefensePoints == defensePoints))
+            if (machines.Any(x => x.Name == name && x.AttackPoints == attackPoints && x.DefensePoints == defensePoints))
             {
                 return $"Machine {name} is manufactured already";
             }
@@ -57,8 +57,6 @@
             IFighter fighter = new Fighter(name, attackPoints, defensePoints);
 
             machines.Add(fighter);
-
-           
 
             return $"Fighter {name} manufactured - attack: {fighter.AttackPoints}; defense: {fighter.DefensePoints}; aggressive: ON";
         }
@@ -141,21 +139,21 @@
 
             Fighter fighterToTrigger = (Fighter)machines.FirstOrDefault(x => x.GetType().Name == "Fighter" && x.Name == fighterName);
 
-            fighterToTrigger.AggressiveMode = true;
+            fighterToTrigger.ToggleAggressiveMode();
 
             return $"Fighter {fighterName} toggled aggressive mode";
         }
 
         public string ToggleTankDefenseMode(string tankName)
         {
-            if (!machines.Any(x => x.GetType().Name == "Tank" && x.Name == tankName))
+            if (!machines.Any(x => x.Name == tankName))
             {
                 return $"Machine {tankName} could not be found";
             }
 
-            Tank tankToTrigger = (Tank)machines.FirstOrDefault(x => x.GetType().Name == "Tank" && x.Name == tankName);
+            Tank tankToTrigger = (Tank)machines.FirstOrDefault(x => x.Name == tankName);
 
-            tankToTrigger.DefenseMode = true;
+            tankToTrigger.ToggleDefenseMode();
 
             return $"Tank {tankName} toggled defense mode";
         }

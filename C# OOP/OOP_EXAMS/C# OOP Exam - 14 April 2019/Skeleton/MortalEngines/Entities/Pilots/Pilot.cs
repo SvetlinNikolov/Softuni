@@ -8,12 +8,10 @@ namespace MortalEngines.Entities.Pilots
     public class Pilot : IPilot
     {
         private string name;
-        private List<IMachine> machines;
 
         public Pilot(string name)
         {
             this.Name = name;
-            machines = new List<IMachine>();
         }
         public string Name
         {
@@ -31,7 +29,7 @@ namespace MortalEngines.Entities.Pilots
             }
         }
 
-        public IReadOnlyCollection<IMachine> Machines =>this.machines.AsReadOnly();
+        public ICollection<IMachine> Machines => this.Machines;
 
         public void AddMachine(IMachine machine)
         {
@@ -40,7 +38,7 @@ namespace MortalEngines.Entities.Pilots
                 throw new NullReferenceException("Null machine cannot be added to the pilot.");
             }
 
-            this.machines.Add(machine);
+            this.Machines.Add(machine);
         }
 
         public string Report()

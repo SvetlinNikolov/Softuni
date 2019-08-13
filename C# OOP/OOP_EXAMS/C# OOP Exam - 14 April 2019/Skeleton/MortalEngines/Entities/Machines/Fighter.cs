@@ -8,16 +8,36 @@ namespace MortalEngines.Entities.Machines
     public class Fighter : BaseMachine,IFighter
     {
         private const double INITIAL_HEALTH_POINTS = 200;
+        private bool aggresiveMode;
+        public bool AggressiveMode
+        {
+            get
+            {
+                return aggresiveMode;
+            }
+            private set
+            {
+                aggresiveMode = value;
 
-        public bool AggressiveMode { get; set; }
-        //12ч
+                if (aggresiveMode == true)
+                {
+                    AttackPoints += 50;
+                    DefensePoints -= 25;
+                }
+                else if (aggresiveMode == false)
+                {
+                    AttackPoints -= 50;
+                    DefensePoints += 25;
+                }
+            }
+        }
+
 
         public Fighter(string name, double attackPoints, double defensePoints)
-            :base(name, attackPoints, defensePoints, INITIAL_HEALTH_POINTS)
+            : base(name, attackPoints, defensePoints, INITIAL_HEALTH_POINTS)
         {
-         
-            this.AggressiveMode = false;
-            ToggleAggressiveMode();
+            aggresiveMode = true;
+
         }
         public void ToggleAggressiveMode()
         {
@@ -25,21 +45,9 @@ namespace MortalEngines.Entities.Machines
             {
                 AggressiveMode = false;
             }
-             if (AggressiveMode == false)
-            {
-                AggressiveMode = true;
-            }
-
-
-            if (AggressiveMode == true)
-            {
-                this.AttackPoints += 50;
-                this.DefensePoints -= 25;
-            }
             else if (AggressiveMode == false)
             {
-                this.AttackPoints -= 50;
-                this.DefensePoints += 25;
+                AggressiveMode = true;
             }
         }
 

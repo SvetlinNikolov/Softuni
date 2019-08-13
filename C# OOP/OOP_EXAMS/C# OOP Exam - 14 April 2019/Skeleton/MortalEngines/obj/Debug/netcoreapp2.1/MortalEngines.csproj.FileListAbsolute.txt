@@ -1,0 +1,11 @@
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.deps.json
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.runtimeconfig.json
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.runtimeconfig.dev.json
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.dll
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.pdb
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.csprojAssemblyReference.cache
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.csproj.CoreCompileInputs.cache
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.AssemblyInfoInputs.cache
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.AssemblyInfo.cs
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.dll
+D:\Softuni Repo\Softuni\C# OOP\OOP_EXAMS\C# OOP Exam - 14 April 2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.pdb

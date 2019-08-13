@@ -8,25 +8,45 @@ namespace MortalEngines.Entities.Machines
     public class Tank : BaseMachine,ITank
     {
         private const double INITIAL_HEALTH_POINTS = 100;
+        private bool defenceMode;
 
         public Tank(string name, double attackPoints, double defensePoints)
             : base(name, attackPoints, defensePoints, INITIAL_HEALTH_POINTS)
         {
-           
-            this.DefenseMode = false;
-            ToggleDefenseMode();
+            defenceMode = true;
         }
 
-        public bool DefenseMode { get; set; }
+        public bool DefenseMode
+        {
+            get
+            {
+                return defenceMode;
+            }
+            private set
+            {
+                defenceMode = value;
 
+                if (defenceMode == true)
+                {
+                    AttackPoints -= 40;
+                    DefensePoints += 30;
+                }
+                else if (defenceMode == false)
+                {
+                    AttackPoints += 40;
+                    DefensePoints -= 30;
+                }
+            }
+        }
 
+        
         public void ToggleDefenseMode()
         {
             if (DefenseMode == true)
             {
                 DefenseMode = false;
             }
-            if (DefenseMode == false)
+            else if (DefenseMode == false)
             {
                 DefenseMode = true;
             }
@@ -36,18 +56,6 @@ namespace MortalEngines.Entities.Machines
         {
 
             string defenceModeCurrentValue = string.Empty;
-
-
-            if (DefenseMode == true)
-            {
-                AttackPoints -= 40;
-                DefensePoints += 30;
-            }
-            if (DefenseMode == false)
-            {
-                AttackPoints += 40;
-                DefensePoints -= 30;
-            }
 
             if (DefenseMode == true)
             {
