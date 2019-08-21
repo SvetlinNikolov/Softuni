@@ -24,12 +24,9 @@ namespace _03.Longest_Subsequence
             for (int i = 0; i < numbers.Count - 1; i++)
             {
 
-                while (true)
+                while (i != numbers.Count - 1)
                 {
-                    if (i == numbers.Count - 1)
-                    {
-                        break;
-                    }
+                   
                     if (numbers[i] == numbers[i + 1])
                     {
                         tempSequence.Add(numbers[i]);
