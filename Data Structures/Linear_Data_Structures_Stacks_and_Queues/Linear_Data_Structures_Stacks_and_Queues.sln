@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Reverse Numbers with a Stack", "01.Reverse Numbers with a Stack\01.Reverse Numbers with a Stack.csproj", "{2181CE8A-6CA9-43BD-ADFB-0FBEE00CF1E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Calculate Sequence", "02. Calculate Sequence\02. Calculate Sequence.csproj", "{516A6EFE-8AB2-40A4-A1D0-95D2EA2A5881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Implement an Array-Based Stack", "03.Implement an Array-Based Stack\03.Implement an Array-Based Stack.csproj", "{5B013FAD-0C30-40CD-A6B5-E4B6689B691B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2181CE8A-6CA9-43BD-ADFB-0FBEE00CF1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2181CE8A-6CA9-43BD-ADFB-0FBEE00CF1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2181CE8A-6CA9-43BD-ADFB-0FBEE00CF1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2181CE8A-6CA9-43BD-ADFB-0FBEE00CF1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{516A6EFE-8AB2-40A4-A1D0-95D2EA2A5881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516A6EFE-8AB2-40A4-A1D0-95D2EA2A5881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516A6EFE-8AB2-40A4-A1D0-95D2EA2A5881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516A6EFE-8AB2-40A4-A1D0-95D2EA2A5881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B013FAD-0C30-40CD-A6B5-E4B6689B691B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B013FAD-0C30-40CD-A6B5-E4B6689B691B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B013FAD-0C30-40CD-A6B5-E4B6689B691B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B013FAD-0C30-40CD-A6B5-E4B6689B691B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2906409-11FC-4B2B-977B-14F5AC86249F}
+	EndGlobalSection
+EndGlobal
