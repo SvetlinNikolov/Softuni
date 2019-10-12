@@ -133,13 +133,61 @@ JOIN Passengers AS p
 ON p.Id = t.PassengerId
 ORDER BY [Full Name] ASC, f.Origin ASC, f.Destination ASC
 
---11
---SELECT p.FirstName, p.LastName, p.Age
---FROM Tickets AS t
---JOIN Flights AS f
---ON t.FlightId = f.Id
---LEFT JOIN Passengers AS p
---ON p.Id = t.PassengerId
---WHERE p.Id NOT IN (f.PlaneId)
---ORDER BY p.Age DESC, p.FirstName ASC, p.LastName ASC
----------NOOOOOOOOOOOOOOOOOOOOOOOOO
+
+--Full Info
+SELECT CONCAT(p.FirstName, ' ', p.LastName) AS [Full Name], pl.Name AS [Plane Name], CONCAT(f.Origin, ' - ', f.Destination) AS [Trip], lt.Type AS [Luggage Type]
+FROM Passengers AS p
+JOIN Tickets AS t ON p.Id = t.PassengerId
+JOIN Flights AS f ON f.Id = t.FlightId
+JOIN Planes AS pl ON f.PlaneId = pl.Id
+LEFT JOIN Luggages AS l ON l.Id = t.LuggageId
+full JOIN LuggageTypes AS lt ON lt.Id = l.LuggageTypeId
+ORDER BY [Full Name] ASC, pl.Name ASC, f.Origin ASC, f.Destination ASC, lt.Type ASC
+
+
+--PSP
+SELECT p.Name, p.Seats AS [Seats], COUNT(pa.Id) AS [Passengers Count]
+FROM Planes AS p
+LEFT JOIN Flights AS f ON f.PlaneId = p.Id
+LEFT JOIN Tickets AS t ON f.Id = t.FlightId
+LEFT JOIN Passengers AS pa ON pa.Id = t.PassengerId
+GROUP BY p.Name, p.Seats
+ORDER BY [Passengers Count] DESC, p.Name ASC, [Seats] ASC
+
+--Vacation
+REATE FUNCTION udf_CalculateTickets(@origin VARCHAR(50), @destination VARCHAR(50), @peopleCount INT) 
+RETURNS VARCHAR(50)
+AS 
+BEGIN
+	IF (@peopleCount <= 0)
+BEGIN
+	RETURN 'Invalid people count!'
+END
+	DECLARE @flightId INT = 
+	(SELECT  f.Id
+	FROM Flights AS f
+	WHERE f.Origin = @origin AND f.Destination = @destination)
+
+	IF (@flightId IS NULL)
+BEGIN
+	RETURN 'Invalid flight!'
+END
+DECLARE @pricePerPerson DECIMAL (18, 2) = (SELECT t.Price
+						  FROM Tickets AS t
+						  WHERE t.FlightId = @flightId)
+
+DECLARE @totalPrice DECIMAL (24, 2) = @pricePerPerson * @peopleCount
+
+RETURN CONCAT('Total price', ' ', @totalPrice)
+END
+
+--Wrong Data
+
+CREATE PROCEDURE usp_CancelFlights
+AS
+BEGIN
+	UPDATE Flights 
+	SET
+	DepartureTime = NULL, ArrivalTime = NULL
+	WHERE DATEDIFF(SECOND, DepartureTime, ArrivalTime) >=0
+END
