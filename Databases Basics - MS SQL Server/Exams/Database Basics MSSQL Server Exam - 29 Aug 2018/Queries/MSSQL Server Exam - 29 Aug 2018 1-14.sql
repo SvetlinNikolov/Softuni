@@ -143,3 +143,25 @@ SUM(oi.Quantity) AS [Items]
 WHERE o.DateTime <= Convert(DATETIME, '2018-06-15' )
 GROUP BY e.FirstName, e.LastName
 ORDER BY [Total Price] DESC, [Items] DESC
+
+--14
+SELECT CONCAT(e.FirstName, ' ', e.LastName) AS [Full Name], DATENAME(weekday, s.CheckIn) AS [Day of week]
+FROM Employees AS e
+LEFT JOIN Orders AS o ON e.Id = o.EmployeeId
+JOIN Shifts AS s ON s.EmployeeId = e.Id
+WHERE o.EmployeeId IS NULL AND  DATEDIFF(HOUR, s.CheckIn, s.CheckOut) > 12
+ORDER BY e.Id
+
+--15
+-- NEEDS WORK
+
+SELECT  CONCAT(e.FirstName, ' ', e.LastName) AS [FullName],  DATEDIFF(HOUR, s.CheckIn, s.CheckOut)	AS [WorkHours],
+SUM(i.Price*oi.Quantity) AS [TotalPrice]
+FROM Employees AS e
+full JOIN Orders AS o ON e.Id = o.EmployeeId
+JOIN Shifts AS s ON s.EmployeeId = e.Id
+ JOIN OrderItems AS oi ON oi.OrderId = o.Id
+JOIN Items AS i ON i.Id = o.Id 
+GROUP BY e.FirstName, e.LastName, DATEDIFF(HOUR, s.CheckIn, s.CheckOut)
+ORDER BY [FullName] ASC, [WorkHours] DESC, [TotalPrice] DESC
+
