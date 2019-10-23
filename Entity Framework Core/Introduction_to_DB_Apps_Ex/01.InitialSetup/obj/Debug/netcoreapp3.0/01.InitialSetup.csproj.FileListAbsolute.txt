@@ -1,0 +1,4 @@
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\01.InitialSetup\bin\Debug\netcoreapp3.0\01.InitialSetup.exe
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\01.InitialSetup\obj\Debug\netcoreapp3.0\01.InitialSetup.csprojAssemblyReference.cache
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\01.InitialSetup\obj\Debug\netcoreapp3.0\01.InitialSetup.AssemblyInfoInputs.cache
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\01.InitialSetup\obj\Debug\netcoreapp3.0\01.InitialSetup.AssemblyInfo.cs

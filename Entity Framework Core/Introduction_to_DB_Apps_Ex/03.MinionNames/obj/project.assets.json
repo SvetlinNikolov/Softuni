@@ -458,11 +458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Softuni\\Introduction_to_DB_Apps_Ex\\Introduction_to_DB_Apps_Ex\\03.MinionNames\\03.MinionNames.csproj",
+      "projectUniqueName": "D:\\Github Repos\\Softuni\\Entity Framework Core\\Introduction_to_DB_Apps_Ex\\03.MinionNames\\03.MinionNames.csproj",
       "projectName": "03.MinionNames",
-      "projectPath": "E:\\Softuni\\Introduction_to_DB_Apps_Ex\\Introduction_to_DB_Apps_Ex\\03.MinionNames\\03.MinionNames.csproj",
+      "projectPath": "D:\\Github Repos\\Softuni\\Entity Framework Core\\Introduction_to_DB_Apps_Ex\\03.MinionNames\\03.MinionNames.csproj",
       "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-      "outputPath": "E:\\Softuni\\Introduction_to_DB_Apps_Ex\\Introduction_to_DB_Apps_Ex\\03.MinionNames\\obj\\",
+      "outputPath": "D:\\Github Repos\\Softuni\\Entity Framework Core\\Introduction_to_DB_Apps_Ex\\03.MinionNames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daxte\\AppData\\Roaming\\NuGet\\NuGet.Config",

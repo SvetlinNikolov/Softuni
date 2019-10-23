@@ -7,7 +7,7 @@ namespace _02.VillainNames
     {
         static void Main(string[] args)
         {
-            string connectionString = (@"Server = DESKTOP-8TA8JKL\SQLEXPRESS;
+            string connectionString = (@"Server = DESKTOP-MU23NJN\SQLEXPRESS;
                                               Integrated Security=true;");
 
             SqlConnection dbCon = new SqlConnection(connectionString);

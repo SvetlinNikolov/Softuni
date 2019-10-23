@@ -7,7 +7,7 @@ namespace _03.MinionNames
     {
         static void Main(string[] args)
         {
-            string connectionString = (@"Server = DESKTOP-8TA8JKL\SQLEXPRESS;
+            string connectionString = (@"Server = DESKTOP-MU23NJN\SQLEXPRESS;
                                               Integrated Security=true;");
 
             SqlConnection dbCon = new SqlConnection(connectionString);
@@ -31,28 +31,33 @@ namespace _03.MinionNames
 
             getVillainName.Parameters.AddWithValue("Id", id);
 
-            if (getVillainName.ExecuteNonQuery() == -1)
+            string villainName = (string)getVillainName.ExecuteScalar();
+
+            if (string.IsNullOrEmpty(villainName))
             {
                 Console.WriteLine($"No villain with ID {id} exists in the database.");
                 Environment.Exit(0);
             }
             else
             {
-                Console.WriteLine($"Villain: {getVillainName.ExecuteNonQuery()}");
+                Console.WriteLine($"Villain {villainName}");
             }
-
+            
             SqlDataReader reader = getMinionNames.ExecuteReader();
 
-
-            while (reader.Read())
+            using (reader)
             {
-                if (string.IsNullOrEmpty(reader[0].ToString()))
+                while (reader.Read())
                 {
-                    Console.WriteLine("(no minions)");
-                    Environment.Exit(0);
+                    if (string.IsNullOrEmpty(reader[0].ToString()))
+                    {
+                        Console.WriteLine("(no minions)");
+                        Environment.Exit(0);
+                    }
+                    Console.WriteLine(reader[0] + ". " + reader[1] + " " + reader[2]);
                 }
-                Console.WriteLine(reader[0] + " " + reader[1] + " "+ reader[2]);
             }
+
         }
     }
 }

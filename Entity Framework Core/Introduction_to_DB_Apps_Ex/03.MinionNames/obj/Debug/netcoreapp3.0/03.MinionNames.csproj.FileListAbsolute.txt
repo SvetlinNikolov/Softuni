@@ -16,3 +16,21 @@ E:\Softuni\Introduction_to_DB_Apps_Ex\Introduction_to_DB_Apps_Ex\03.MinionNames\
 E:\Softuni\Introduction_to_DB_Apps_Ex\Introduction_to_DB_Apps_Ex\03.MinionNames\obj\Debug\netcoreapp3.0\03.MinionNames.csproj.CopyComplete
 E:\Softuni\Introduction_to_DB_Apps_Ex\Introduction_to_DB_Apps_Ex\03.MinionNames\obj\Debug\netcoreapp3.0\03.MinionNames.dll
 E:\Softuni\Introduction_to_DB_Apps_Ex\Introduction_to_DB_Apps_Ex\03.MinionNames\obj\Debug\netcoreapp3.0\03.MinionNames.pdb
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\03.MinionNames.exe
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\03.MinionNames.deps.json
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\03.MinionNames.runtimeconfig.json
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\03.MinionNames.runtimeconfig.dev.json
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\03.MinionNames.dll
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\03.MinionNames.pdb
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\obj\Debug\netcoreapp3.0\03.MinionNames.csprojAssemblyReference.cache
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\obj\Debug\netcoreapp3.0\03.MinionNames.AssemblyInfoInputs.cache
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\obj\Debug\netcoreapp3.0\03.MinionNames.AssemblyInfo.cs
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\obj\Debug\netcoreapp3.0\03.MinionNames.csproj.CopyComplete
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\obj\Debug\netcoreapp3.0\03.MinionNames.dll
+D:\Github Repos\Softuni\Entity Framework Core\Introduction_to_DB_Apps_Ex\03.MinionNames\obj\Debug\netcoreapp3.0\03.MinionNames.pdb
