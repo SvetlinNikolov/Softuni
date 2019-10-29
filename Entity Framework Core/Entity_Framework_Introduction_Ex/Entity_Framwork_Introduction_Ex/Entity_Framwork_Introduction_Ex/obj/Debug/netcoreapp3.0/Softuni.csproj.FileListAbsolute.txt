@@ -1,0 +1,3 @@
+E:\Github Repos\Softuni\Entity Framework Core\Entity_Framework_Introduction_Ex\Entity_Framwork_Introduction_Ex\Entity_Framwork_Introduction_Ex\obj\Debug\netcoreapp3.0\Softuni.csprojAssemblyReference.cache
+E:\Github Repos\Softuni\Entity Framework Core\Entity_Framework_Introduction_Ex\Entity_Framwork_Introduction_Ex\Entity_Framwork_Introduction_Ex\obj\Debug\netcoreapp3.0\Softuni.AssemblyInfoInputs.cache
+E:\Github Repos\Softuni\Entity Framework Core\Entity_Framework_Introduction_Ex\Entity_Framwork_Introduction_Ex\Entity_Framwork_Introduction_Ex\obj\Debug\netcoreapp3.0\Softuni.AssemblyInfo.cs
