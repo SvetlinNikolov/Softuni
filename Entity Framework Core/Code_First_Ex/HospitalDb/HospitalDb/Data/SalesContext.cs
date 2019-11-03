@@ -50,6 +50,10 @@ namespace P03_SalesDatabase.Data
              .WithOne(s => s.Product)
              .HasForeignKey(s => s.ProductId);
 
+                entity
+                .Property(p => p.Description)
+                .HasMaxLength(250)
+                .HasDefaultValue("No description");
 
             });
 
@@ -87,7 +91,8 @@ namespace P03_SalesDatabase.Data
 
                 entity.Property(s => s.Date)
                 .IsRequired(true)
-                .HasColumnType("DATETIME2");
+                .HasColumnType("DATETIME2")
+                .HasDefaultValueSql("GETDATE()");
 
                 entity.HasOne(s => s.Product)
                 .WithMany(p => p.Sales)
