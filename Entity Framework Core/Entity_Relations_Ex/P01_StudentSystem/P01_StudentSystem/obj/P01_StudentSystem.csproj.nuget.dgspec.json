@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Github Repos\\Softuni\\Entity Framework Core\\Entity_Relations_Ex\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj": {}
+    "D:\\Github Repos\\Softuni\\Entity Framework Core\\Entity_Relations_Ex\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj": {}
   },
   "projects": {
-    "E:\\Github Repos\\Softuni\\Entity Framework Core\\Entity_Relations_Ex\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj": {
+    "D:\\Github Repos\\Softuni\\Entity Framework Core\\Entity_Relations_Ex\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github Repos\\Softuni\\Entity Framework Core\\Entity_Relations_Ex\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
+        "projectUniqueName": "D:\\Github Repos\\Softuni\\Entity Framework Core\\Entity_Relations_Ex\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
         "projectName": "P01_StudentSystem",
-        "projectPath": "E:\\Github Repos\\Softuni\\Entity Framework Core\\Entity_Relations_Ex\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
+        "projectPath": "D:\\Github Repos\\Softuni\\Entity Framework Core\\Entity_Relations_Ex\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
         "packagesPath": "C:\\Users\\daxte\\.nuget\\packages\\",
-        "outputPath": "E:\\Github Repos\\Softuni\\Entity Framework Core\\Entity_Relations_Ex\\P01_StudentSystem\\P01_StudentSystem\\obj\\",
+        "outputPath": "D:\\Github Repos\\Softuni\\Entity Framework Core\\Entity_Relations_Ex\\P01_StudentSystem\\P01_StudentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daxte\\AppData\\Roaming\\NuGet\\NuGet.Config",

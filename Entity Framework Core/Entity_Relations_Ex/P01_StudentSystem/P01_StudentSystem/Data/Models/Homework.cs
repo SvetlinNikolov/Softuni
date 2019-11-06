@@ -11,7 +11,7 @@ namespace P01_StudentSystem.Data.Models
         public string Content { get; set; }
         public ContentTypes ContentType { get; set; }
         public DateTime SubmissionTime { get; set; }
-        public Student MyProperty { get; set; }
+        public Student Student { get; set; }
         public int StudentId { get; set; }
         public Course Course { get; set; }
         public int CourseId { get; set; }
