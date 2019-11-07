@@ -4,7 +4,15 @@ using System.Text;
 
 namespace P03_FootballBetting.Data.Models
 {
-    class Bet
+   
+    public class Bet
     {
+        
+        public int BetId { get; set; }
+        public decimal Amount { get; set; }
+        public string Prediction { get; set; } //maybe int i do not know
+        public DateTime DateTime { get; set; }
+        public int UserId { get; set; }
+        public int GameId { get; set; }
     }
 }
