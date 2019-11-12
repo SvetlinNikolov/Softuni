@@ -1,12 +1,13 @@
 ﻿using System;
+using System.Linq;
 
 namespace P03_FootballBetting
 {
     public class StartUp
     {
-        static void Main(string[] args)
+       public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+        
         }
     }
 }
