@@ -24,7 +24,7 @@
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=DESKTOP-MU23NJN\SQLEXPRESS;Database=ProductShop;Integrated Security=True");
+                optionsBuilder.UseSqlServer(@"Server=DESKTOP-8TA8JKL\SQLEXPRESS;Database=ProductShop;Integrated Security=True");
             }
         }
 

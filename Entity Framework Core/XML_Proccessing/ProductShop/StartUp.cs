@@ -17,7 +17,7 @@ namespace ProductShop
     {
 
         public static void Main(string[] args)
-       {
+        {
             Mapper.Initialize(x =>
             {
                 x.AddProfile<ProductShopProfile>();
@@ -26,7 +26,7 @@ namespace ProductShop
 
             using (var db = new ProductShopContext())
             {
-                //db.Database.EnsureDeleted();
+                // db.Database.EnsureDeleted();
                 //db.Database.EnsureCreated();
 
                 //var inputXmlUsers = File.ReadAllText("./../../../Datasets/users.xml");
@@ -244,47 +244,45 @@ namespace ProductShop
                          .Users
                          .Where(u => u.ProductsSold.Count > 0)
                          .OrderByDescending(u => u.ProductsSold.Count)
-                         .Select(u => new UsersCountDto
+                         .Select(u => new ExportSoldProductDto
                          {
-                             Count = usersCount,
 
-                             Users = null
-                             //.Users
-                             //.Where(usr => usr.ProductsSold.Count > 0)
-                             //.Select(usr => new ExportSoldProductDto
-                             //{
-                             //    FirstName = usr.FirstName,
-                             //    LastName = usr.LastName,
-                             //    Age = usr.Age,
+                             FirstName = u.FirstName,
+                             LastName = u.LastName,
+                             Age = u.Age,
 
-                             //    SoldProducts = context
-                             //    .Users
-                             //    .Where(sp => sp.ProductsSold.Count > 0)
-                             //    .Select(sp => new UserProductsSoldDto
-                             //    {
-                             //        Count = sp.ProductsSold.Count(),
+                             SoldProducts = u.ProductsSold
+                                 .Select(sp => new UserProductsSoldDto
+                                 {
+                                     Count = u.ProductsSold.Count(),
 
-                             //        Products = usr.ProductsSold
-                             //    .Select(user => new SoldProductDto
-                             //    {
-                             //        Name = user.Name,
-                             //        Price = user.Price
-                             //    })
-                             //    .ToArray()
-                             //    })
-                             //    .ToArray()
+                                     Products = u.ProductsSold
+                                 .Select(user => new SoldProductDto
+                                 {
+                                     Name = user.Name,
+                                     Price = user.Price
+                                 })
+                                 .OrderByDescending(x => x.Price)
+                                .ToArray()
+                                 })
+                                 .ToArray()
 
-                             //})
-                             //.ToArray()
                          })
+                         .Take(10)
                          .ToArray();
 
 
-            var xmlSerializer = new XmlSerializer(typeof(ExportSoldProductDto[]));
+            var s = new UsersCountDto
+            {
+
+                Count = usersCount,
+                Users = users
+            };
+            var xmlSerializer = new XmlSerializer(typeof(UsersCountDto));
 
             var sb = new StringBuilder();
             var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
-            xmlSerializer.Serialize(new StringWriter(sb), users.ToArray(), namespaces);
+            xmlSerializer.Serialize(new StringWriter(sb), s, namespaces);
 
             return sb.ToString().TrimEnd();
         }

@@ -19,7 +19,7 @@ namespace ProductShop.Dtos.Export
         [XmlElement("age")]
         public int? Age { get; set; }
 
-        [XmlArray("SoldProducts")]
+        [XmlElement("SoldProducts")]
         public UserProductsSoldDto[] SoldProducts { get; set; }
 
 
