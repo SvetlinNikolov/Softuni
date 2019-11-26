@@ -26,7 +26,7 @@
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=DESKTOP-8TA8JKL\SQLEXPRESS;Database=CarDealer;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer(@"Server=DESKTOP-MU23NJN\SQLEXPRESS;Database=CarDealer;Trusted_Connection=True;");
             }
         }
 
