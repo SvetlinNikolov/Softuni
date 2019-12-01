@@ -7,11 +7,14 @@
     using Microsoft.EntityFrameworkCore;
 
     using Data;
+    using System.Threading;
+    using System.Globalization;
 
     public class StartUp
     {
         public static void Main(string[] args)
         {
+            Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
             var context = new CinemaContext();
 
             Mapper.Initialize(config => config.AddProfile<CinemaProfile>());
@@ -20,7 +23,7 @@
 
             var projectDir = GetProjectDirectory();
 
-           ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
+            //ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
 
             ExportEntities(context, projectDir + @"ExportResults/");
 
@@ -32,31 +35,31 @@
 
         private static void ImportEntities(CinemaContext context, string baseDir, string exportDir)
         {
-            //var movies =
-            //    DataProcessor.Deserializer.ImportMovies(context,
-            //        File.ReadAllText(baseDir + "movies.json"));
-            //PrintAndExportEntityToFile(movies, exportDir + "ImportMovies.txt");
+            var movies =
+                DataProcessor.Deserializer.ImportMovies(context,
+                    File.ReadAllText(baseDir + "movies.json"));
+            PrintAndExportEntityToFile(movies, exportDir + "ImportMovies.txt");
 
             var hallSeats =
                 DataProcessor.Deserializer.ImportHallSeats(context,
                     File.ReadAllText(baseDir + "halls-seats.json"));
             PrintAndExportEntityToFile(hallSeats, exportDir + "ImportHallSeats.txt");
 
-            //var projections = DataProcessor.Deserializer.ImportProjections(context,
-            //    File.ReadAllText(baseDir + "projections.xml"));
-            //PrintAndExportEntityToFile(projections, exportDir + "Actual Result - ImportProjections.txt");
+            var projections = DataProcessor.Deserializer.ImportProjections(context,
+                File.ReadAllText(baseDir + "projections.xml"));
+            PrintAndExportEntityToFile(projections, exportDir + "ImportProjections.txt");
 
-            //var customerTickets =
-            //    DataProcessor.Deserializer.ImportCustomerTickets(context,
-            //        File.ReadAllText(baseDir + "customers-tickets.xml"));
-            //PrintAndExportEntityToFile(customerTickets, exportDir + "Actual Result - ImportCustomerTickets.txt");
+            var customerTickets =
+                DataProcessor.Deserializer.ImportCustomerTickets(context,
+                    File.ReadAllText(baseDir + "customers-tickets.xml"));
+            PrintAndExportEntityToFile(customerTickets, exportDir + "ImportCustomerTickets.txt");
         }
 
         private static void ExportEntities(CinemaContext context, string exportDir)
         {
-            var exportTopMovies = DataProcessor.Serializer.ExportTopMovies(context, 5);
-            Console.WriteLine(exportTopMovies);
-            File.WriteAllText(exportDir + "Actual Result - ExportTopMovies.json", exportTopMovies);
+            //var exportTopMovies = DataProcessor.Serializer.ExportTopMovies(context, 5);
+            //Console.WriteLine(exportTopMovies);
+            //File.WriteAllText(exportDir + "Actual Result - ExportTopMovies.json", exportTopMovies);
 
             var exportTopCustomers = DataProcessor.Serializer.ExportTopCustomers(context, 14);
             Console.WriteLine(exportTopCustomers);
