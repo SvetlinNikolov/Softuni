@@ -49,7 +49,17 @@
 
         public static string ExportUserPurchasesByType(VaporStoreDbContext context, string storeType)
         {
-            throw new NotImplementedException();
+
+            var allPurchases = context
+                  .Purchases
+                  .Where(p => storeType.Contains(p.Type.ToString()))
+                  .Select(c => c.Card)
+                  .Where(c => c.Purchases.Count() > 0)
+                  .ToList();
+
+
+
+            return "";
         }
     }
 }
